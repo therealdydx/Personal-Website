@@ -21,7 +21,11 @@ Outside of work related stuff, I play with Yale-NUS Floorball, play the piano on
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I play the piano
 - 💻 Skills: C, Python, R, SQL, JavaScript, HTML, CSS
-- 📖 Coursework: Outside of personal coursework, university coursework I've done include Literature and Humanities I and II, Philosophy and Political Thought I and II, Econometrics, Bahasa Indonesia 1, Scientific Inquiry I and Comparative Social Inquiry (A wide range of domains :D)
+-  Coursework: Outside of personal coursework, university coursework I've done include Literature and Humanities I and II, Philosophy and Political Thought I and II, Econometrics, Bahasa Indonesia 1, Scientific Inquiry I and Comparative Social Inquiry (A wide range of domains :D)
+### Coursework 📖
+
+
+
 
 ### Get in Touch! 🙋
 - Personal Website: W-I-P
