@@ -11,6 +11,8 @@ Outside of projects, I also work as a venture analyst with Protégé Ventures an
 
 Outside of work related stuff, I play with Yale-NUS Floorball, play the piano on my own and study languages. Also I watch some chinese and korean entertainment from time to time :D
 
+### Fun Facts
+
 - 🔭 I’m currently working on finishing courses from Coursera and edX, and have quite a few that I'm looking to do
 - 🌱 I’m currently learning data science and data analysis with Python and R
 - 👯 I’m looking to work on two projects in the near future, a grammar and plagiarism checker for Bahasa Indonesian and a university application database for university applicants to gain insights in the region
@@ -21,7 +23,7 @@ Outside of work related stuff, I play with Yale-NUS Floorball, play the piano on
 - 💻 Skills: C, Python, R, SQL, JavaScript, HTML, CSS
 - 📖 Coursework: Outside of personal coursework, university coursework I've done include Literature and Humanities I and II, Philosophy and Political Thought I and II, Econometrics, Bahasa Indonesia 1, Scientific Inquiry I and Comparative Social Inquiry (A wide range of domains :D)
 
-🙋 Get in Touch!
+### Get in Touch! 🙋
 - Personal Website: W-I-P
 - LinkedIn: linkedin.com/in/dys-profile
 - Medium: medium.com/@therealdydx
