@@ -22,10 +22,10 @@ Outside of work related stuff, I play with Yale-NUS Floorball, play the piano on
 - 📖 Coursework: Outside of personal coursework, university coursework I've done include Literature and Humanities I and II, Philosophy and Political Thought I and II, Econometrics, Bahasa Indonesia 1, Scientific Inquiry I and Comparative Social Inquiry (A wide range of domains :D)
 
 🙋 Get in Touch!
-Personal Website: W-I-P
-LinkedIn: linkedin.com/in/dys-profile
-Medium: medium.com/@therealdydx
-Email: wangdongyue@outlook.sg / for VC matters: dongyue.wang@protege.vc
+- Personal Website: W-I-P
+- LinkedIn: linkedin.com/in/dys-profile
+- Medium: medium.com/@therealdydx
+- Email: wangdongyue@outlook.sg / for VC matters: dongyue.wang@protege.vc
 
 
 ⚒️ Latest Project: TBC
