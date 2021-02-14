@@ -11,6 +11,8 @@ Outside of projects, I also work as a venture analyst with Protégé Ventures an
 
 Outside of work related stuff, I play with Yale-NUS Floorball, play the piano on my own and study languages. Also I watch some chinese and korean entertainment from time to time :D
 
+
+
 ### Fun Facts
 
 - 🔭 I’m currently working on finishing courses from Coursera and edX, and have quite a few that I'm looking to do
@@ -21,13 +23,37 @@ Outside of work related stuff, I play with Yale-NUS Floorball, play the piano on
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I play the piano
 - 💻 Skills: C, Python, R, SQL, JavaScript, HTML, CSS
--  Coursework: Outside of personal coursework, university coursework I've done include Literature and Humanities I and II, Philosophy and Political Thought I and II, Econometrics, Bahasa Indonesia 1, Scientific Inquiry I and Comparative Social Inquiry (A wide range of domains :D)
+
+  
 ### Coursework 📖
 
+| Institution | Distribution | Topic            | Discipline        | Courses                                                      |
+| :---------- | ------------ | :--------------- | :---------------- | :----------------------------------------------------------- |
+| Yale-NUS    | Campus       | Humanities       | Literature        | - YCC1111 Literature and Humanities I<br />- YCC1112 Literature and Humanities II |
+| Yale-NUS    | Campus       | Humanities       | Philosophy        | - YCC1113 Philosophy and Political Thought I<br />- YCC1114 Philosophy and Political Thought II |
+| Yale-NUS    | Campus       | Humanities       | Bahasa Indonesian | - LAB1201 Bahasa Indonesian I                                |
+| Yale-NUS    | Campus       | Natural Sciences | Biology           | - YCC1131 Scientific Inquiry I                               |
+| Yale-NUS    | Campus       | Social Sciences  | Sociology         | - YCC1121 Comparative Social Inquiry                         |
+| Yale-NUS    | Campus       | Social Sciences  | Economics         | - YSS2211 (Intermediate) Econometrics                        |
+| Harvard     | edX          | Computing        | Computer Science  | - CS50 Introduction to Computer Science<br />- CS50 Artificial Intelligence with Python |
+| IBM         | Coursera     | Computing        | Data Science      | - IBM Applied AI Professional Certificate<br />- IBM Data Science Professional Certificate |
+| UPenn       | Coursera     | Finance          | Venture Capital   | - Entrepreneurship Specialization                            |
+
+
+
+#### Other Certifications
+
+| Institution          | Distribution | Topic     | Discipline        | Courses                                                      |
+| :------------------- | ------------ | :-------- | :---------------- | :----------------------------------------------------------- |
+| Gen Infiniti Academy | Campus       | Computing | Data Science      | - WILEY Certified Data Analyst (CITREP+)                     |
+| Upcode Academy       | Campus       | Computing | Computer Science  | - Python Development Bootcamp (CITREP+)                      |
+| Microsoft            | Online       | Computing | Productivity      | - Microsoft Office Specialist: Word 2016<br />- Microsoft Office Specialist: Excel 2016 |
+| CFA Institute        | Online       | Finance   | Corporate Finance | - CFA Investment Foundations Program                         |
 
 
 
 ### Get in Touch! 🙋
+
 - Personal Website: W-I-P
 - LinkedIn: linkedin.com/in/dys-profile
 - Medium: medium.com/@therealdydx
