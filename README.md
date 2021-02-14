@@ -30,5 +30,6 @@ Outside of work related stuff, I play with Yale-NUS Floorball, play the piano on
 - Email: wangdongyue@outlook.sg / for VC matters: dongyue.wang@protege.vc
 
 
-⚒️ Latest Project: TBC
+### Current Projects: TBC 
+
 Currently looking to build a website for university applicants, but have to finish some courses and schoolwork before I get started during the summer :D
