@@ -24,6 +24,20 @@ Outside of work related stuff, I play with Yale-NUS Floorball, play the piano on
 - ⚡ Fun fact: I play the piano
 - 💻 Skills: C, Python, R, SQL, JavaScript, HTML, CSS
 
+### Hackathons / Case Competitions 💻
+
+| Competition | Distribution | Topic            | Discipline        | Courses                                                      |
+| :---------- | ------------ | :--------------- | :---------------- | :----------------------------------------------------------- |
+| Yale-NUS    | Campus       | Humanities       | Literature        | - YCC1111 Literature and Humanities I<br />- YCC1112 Literature and Humanities II |
+| Yale-NUS    | Campus       | Humanities       | Philosophy        | - YCC1113 Philosophy and Political Thought I<br />- YCC1114 Philosophy and Political Thought II |
+| Yale-NUS    | Campus       | Humanities       | Bahasa Indonesian | - LAB1201 Bahasa Indonesian I                                |
+| Yale-NUS    | Campus       | Natural Sciences | Biology           | - YCC1131 Scientific Inquiry I                               |
+| Yale-NUS    | Campus       | Social Sciences  | Sociology         | - YCC1121 Comparative Social Inquiry                         |
+| Yale-NUS    | Campus       | Social Sciences  | Economics         | - YSS2211 (Intermediate) Econometrics                        |
+| Harvard     | edX          | Computing        | Computer Science  | - CS50 Introduction to Computer Science (W-I-P)<br />- CS50 Artificial Intelligence with Python (W-I-P) |
+| IBM         | Coursera     | Computing        | Data Science      | - IBM Applied AI Professional Certificate<br />- IBM Data Science Professional Certificate (W-I-P) |
+| UPenn       | Coursera     | Finance          | Venture Capital   | - Entrepreneurship Specialization                            |
+
   
 ### Coursework 📖
 
@@ -60,6 +74,9 @@ Outside of work related stuff, I play with Yale-NUS Floorball, play the piano on
 - Email: wangdongyue@outlook.sg / for VC matters: dongyue.wang@protege.vc
 
 
-### Current Projects: TBC 
+### Future Projects: TBC 
 
-Currently looking to build a website for university applicants, but have to finish some courses and schoolwork before I get started during the summer :D
+- Looking to build a website for university applicants, but have to finish some courses and schoolwork before I get started during the summer :D
+- Also looking to build some data science models for analyzing dealflow at Protégé Ventures
+- In the near future, interested in building models using MBTI to assess fit 
+- In far future, possibly building a grammar and spell checker in Bahasa Indonesian 
