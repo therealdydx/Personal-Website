@@ -24,22 +24,27 @@ Outside of work related stuff, I play with Yale-NUS Floorball, play the piano on
 - ⚡ Fun fact: I play the piano
 - 💻 Skills: C, Python, R, SQL, JavaScript, HTML, CSS
 
-### Hackathons / Case Competitions 💻
 
-| Competition | Distribution | Topic            | Discipline        | Courses                                                      |
-| :---------- | ------------ | :--------------- | :---------------- | :----------------------------------------------------------- |
-| Yale-NUS    | Campus       | Humanities       | Literature        | - YCC1111 Literature and Humanities I<br />- YCC1112 Literature and Humanities II |
-| Yale-NUS    | Campus       | Humanities       | Philosophy        | - YCC1113 Philosophy and Political Thought I<br />- YCC1114 Philosophy and Political Thought II |
-| Yale-NUS    | Campus       | Humanities       | Bahasa Indonesian | - LAB1201 Bahasa Indonesian I                                |
-| Yale-NUS    | Campus       | Natural Sciences | Biology           | - YCC1131 Scientific Inquiry I                               |
-| Yale-NUS    | Campus       | Social Sciences  | Sociology         | - YCC1121 Comparative Social Inquiry                         |
-| Yale-NUS    | Campus       | Social Sciences  | Economics         | - YSS2211 (Intermediate) Econometrics                        |
-| Harvard     | edX          | Computing        | Computer Science  | - CS50 Introduction to Computer Science (W-I-P)<br />- CS50 Artificial Intelligence with Python (W-I-P) |
-| IBM         | Coursera     | Computing        | Data Science      | - IBM Applied AI Professional Certificate<br />- IBM Data Science Professional Certificate (W-I-P) |
-| UPenn       | Coursera     | Finance          | Venture Capital   | - Entrepreneurship Specialization                            |
 
-  
-### Coursework 📖
+## Hackathons / Case Competitions 💻
+
+| Competition                         | Year | Type      | Discipline                         | Placing (if any) |
+| :---------------------------------- | ---- | --------- | :--------------------------------- | :--------------- |
+| NUS-SIT PRISM Social Hackathon      | 2019 | Ideation  | Social Enterprise (Ideation)       |                  |
+| MINDEF Pitch Challenge              | 2019 | Ideation  | IoT (Ideation)                     |                  |
+| Shopee Best Coder Challenge         | 2020 | Hackathon | Data Analytics                     | Top 3%           |
+| NES Ground Zero Startation          | 2020 | Ideation  | EdTech (Ideation)                  |                  |
+| AIESEC Tech for Good Hackathon      | 2020 | Ideation  | Retail (Ideation)                  |                  |
+| SCDF x IBM Call for Code            | 2020 | Hackathon | Hackathon - IoT / Machine Learning |                  |
+| Shopee Code League                  | 2020 | Hackathon | Algorithms                         |                  |
+| AI4Impact Deep Learning Datathon    | 2020 | Hackathon | Machine Learning                   |                  |
+| Fidelity-ESG Case Challenge         | 2020 | Case Comp | Asset Management                   | Top 5            |
+| HSBC Private Banking Case Challenge | 2020 | Case Comp | Asset Management                   |                  |
+| Singapore Business Case Competition | 2020 | Case Comp | Strategy Consulting                |                  |
+
+
+
+## Coursework 📖
 
 | Institution | Distribution | Topic            | Discipline        | Courses                                                      |
 | :---------- | ------------ | :--------------- | :---------------- | :----------------------------------------------------------- |
@@ -66,7 +71,7 @@ Outside of work related stuff, I play with Yale-NUS Floorball, play the piano on
 
 
 
-### Get in Touch! 🙋
+## Get in Touch! 🙋
 
 - Personal Website: W-I-P
 - LinkedIn: linkedin.com/in/dys-profile
@@ -74,7 +79,8 @@ Outside of work related stuff, I play with Yale-NUS Floorball, play the piano on
 - Email: wangdongyue@outlook.sg / for VC matters: dongyue.wang@protege.vc
 
 
-### Future Projects: TBC 
+
+## Future Projects: TBC 
 
 - Looking to build a website for university applicants, but have to finish some courses and schoolwork before I get started during the summer :D
 - Also looking to build some data science models for analyzing dealflow at Protégé Ventures
