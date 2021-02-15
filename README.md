@@ -37,7 +37,7 @@ Outside of work related stuff, I play with Yale-NUS Floorball, play the piano on
 | AIESEC Tech for Good Hackathon      | 2020 | Ideation  | Retail (Ideation)                  |                  |
 | SCDF x IBM Call for Code            | 2020 | Hackathon | Hackathon - IoT / Machine Learning |                  |
 | Shopee Code League                  | 2020 | Hackathon | Algorithms                         |                  |
-| AI4Impact Deep Learning Datathon    | 2020 | Hackathon | Machine Learning                   |                  |
+| AI4Impact Deep Learning Datathon    | 2020 | Hackathon | Machine Learning                   | Top 10           |
 | Fidelity-ESG Case Challenge         | 2020 | Case Comp | Asset Management                   | Top 5            |
 | HSBC Private Banking Case Challenge | 2020 | Case Comp | Asset Management                   |                  |
 | Singapore Business Case Competition | 2020 | Case Comp | Strategy Consulting                |                  |
