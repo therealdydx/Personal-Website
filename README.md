@@ -35,8 +35,8 @@ Outside of work related stuff, I play with Yale-NUS Floorball, play the piano on
 | Yale-NUS    | Campus       | Natural Sciences | Biology           | - YCC1131 Scientific Inquiry I                               |
 | Yale-NUS    | Campus       | Social Sciences  | Sociology         | - YCC1121 Comparative Social Inquiry                         |
 | Yale-NUS    | Campus       | Social Sciences  | Economics         | - YSS2211 (Intermediate) Econometrics                        |
-| Harvard     | edX          | Computing        | Computer Science  | - CS50 Introduction to Computer Science<br />- CS50 Artificial Intelligence with Python |
-| IBM         | Coursera     | Computing        | Data Science      | - IBM Applied AI Professional Certificate<br />- IBM Data Science Professional Certificate |
+| Harvard     | edX          | Computing        | Computer Science  | - CS50 Introduction to Computer Science (W-I-P)<br />- CS50 Artificial Intelligence with Python (W-I-P) |
+| IBM         | Coursera     | Computing        | Data Science      | - IBM Applied AI Professional Certificate<br />- IBM Data Science Professional Certificate (W-I-P) |
 | UPenn       | Coursera     | Finance          | Venture Capital   | - Entrepreneurship Specialization                            |
 
 
