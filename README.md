@@ -22,7 +22,7 @@ Outside of work related stuff, I play with Yale-NUS Floorball, play the piano on
 - 💬 Ask me about VCs, start-ups, politics, music, football and entertainment :D
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I play the piano
-- 💻 Skills: C, Python, R, SQL, JavaScript, HTML, CSS
+- 💻 Skills: C, Python, R, SQL, JavaScript, HTML, CSS, Financial Modelling
 
 
 
