@@ -94,7 +94,7 @@ Pointless stats that don't even mean anything but make my profile look nice hehe
 | :---------------------------------- | ---- | --------- | :--------------------------------- | :--------------- |
 | NUS-SIT PRISM Social Hackathon      | 2019 | Ideation  | Social Enterprise (Ideation)       |                  |
 | MINDEF Pitch Challenge              | 2019 | Ideation  | IoT (Ideation)                     |                  |
-| Shopee Best Coder Challenge         | 2020 | Hackathon | Data Analytics                     | Top 3%           |
+| Shopee Best Coder Challenge         | 2019 | Hackathon | Data Analytics                     | Top 3%           |
 | NES Ground Zero Startation          | 2020 | Ideation  | EdTech (Ideation)                  |                  |
 | AIESEC Tech for Good Hackathon      | 2020 | Ideation  | Retail (Ideation)                  |                  |
 | SCDF x IBM Call for Code            | 2020 | Hackathon | Hackathon - IoT / Machine Learning |                  |
