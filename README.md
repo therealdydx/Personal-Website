@@ -1,11 +1,60 @@
-# Welcome
+# yo what's up
+
+### Hey there, I'm DY 👋
+
+- Undergraduate from 🇸🇬 Singapore, studying at Yale-NUS, majoring in Economics
+- Laid-back Software Developer
+- Write about my life experiences occasionally on Medium, check it out
+- Feel free to ask me about VCs, start-ups, politics, football or just general advice
+
+### Work Experience
+
+1. Web App Developer, go-cart.io (May 2021 - Jul 2021)
+2. Research Analyst, TRIVE Ventures (Oct 2020 - Jul 2021)
+3. Business Operations, Rate (Dec 2019 - Apr 2020)
+4. Operations Specialist, Singapore Armed Forces (Feb 2019 - Nov 2019)
+5. Weapons Specialist, Singapore Armed Forces (Jan 2018 - Jan 2019)
+6. Legal Attachment, Advocatus Law (Nov 2016 - Dec 2016)
+
+### School Life / Activities
+
+1. Protégé Ventures (Aug 2020 - Present)
+
+- Venture Associate (AY20/21 Sem 2 - Present)
+- Venture Analyst (AY20/21 Sem 1)
+
+2. NUS STARTiT (Aug 2020 - Present)
+
+- Member, Student Relations (AY20/21)
+
+3. Yale-NUS Entrepreneurship Society (Aug 2020 - Present)
+
+- Director of Partnerships (AY21/22)
+- Project Lead (AY20/21)
+
+4. Yale-NUS Floorball (Aug 2020 - Present)
+
+- Just having fun playing floorball once/twice a week
+
+5. Yale-NUS Southeast Asian Society (Aug 2020 - Present)
+
+## Get in Touch! 🙋
+
+- Personal Website: W-I-P
+- LinkedIn: linkedin.com/in/dys-profile
+- Medium: medium.com/@therealdydx
+- Email: wangdongyue@outlook.sg / for VC matters: dongyue.wang@protege.vc
+
+### Work Experience
 
 
-### Hi there 👋
 
-I'm an undergraduate from 🇸🇬 Singapore, currently studying at Yale-NUS College, intending to major in either Mathematical and Computational Sciences, Economics, or Psychology. I have about a year of experience in coding, and have dabbled with various things, from making frontends, to data analysis, to hackathons. 
 
-I'm really interested in technology, social impact and start-ups and I'm looking forward to creating great products.
+
+- 
+- 
+
+
 
 Outside of projects, I also work as a venture analyst with Protégé Ventures and TRIVE (Venture Capital), handling deal sourcing for startups, doing industry research and coming up with theses for possible investment sectors. I also help run some events and projects for the Yale-NUS Entrepreneurship Society and the NUS Technopreneurship Society. 
 
@@ -13,16 +62,7 @@ Outside of work related stuff, I play with Yale-NUS Floorball, play the piano on
 
 
 
-### Fun Facts
-
-- 🔭 I’m currently working on finishing courses from Coursera and edX, and have quite a few that I'm looking to do
-- 🌱 I’m currently learning data science and data analysis with Python and R
-- 👯 I’m looking to work on two projects in the near future, a grammar and plagiarism checker for Bahasa Indonesian and a university application database for university applicants to gain insights in the region
-- 🤔 I’m looking for help with building more technical competency and a clearer roadmap of what to learn
-- 💬 Ask me about VCs, start-ups, politics, music, football and entertainment :D
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I play the piano
-- 💻 Skills: C, Python, R, SQL, JavaScript, HTML, CSS, Financial Modelling
+- 
 
 
 
@@ -86,3 +126,16 @@ Outside of work related stuff, I play with Yale-NUS Floorball, play the piano on
 - Also looking to build some data science models for analyzing dealflow at Protégé Ventures
 - In the near future, interested in building models using MBTI to assess fit 
 - In far future, possibly building a grammar and spell checker in Bahasa Indonesian 
+
+
+
+### Fun Facts
+
+- 🔭 I’m currently working on finishing courses from Coursera and edX, and have quite a few that I'm looking to do
+- 
+- 👯 I’m looking to work on two projects in the near future, a grammar and plagiarism checker for Bahasa Indonesian and a university application database for university applicants to gain insights in the region
+- 🤔 I’m looking for help with building more technical competency and a clearer roadmap of what to learn
+- 💬 Ask me about VCs, start-ups, politics, music, football and entertainment :D
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I play the piano
+- 💻 Skills: C, Python, R, SQL, JavaScript, HTML, CSS, Financial Modelling
