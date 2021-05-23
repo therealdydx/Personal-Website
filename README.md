@@ -59,34 +59,88 @@ Pointless stats that don't even mean anything but make my profile look nice hehe
 
 ## Work Experience
 
-1. Web App Developer, go-cart.io (May 2021 - Jul 2021)
-2. Research Analyst, TRIVE Ventures (Oct 2020 - Jul 2021)
-3. Business Operations, Rate (Dec 2019 - Apr 2020)
-4. Operations Specialist, Singapore Armed Forces (Feb 2019 - Nov 2019)
-5. Weapons Specialist, Singapore Armed Forces (Jan 2018 - Jan 2019)
-6. Legal Attachment, Advocatus Law (Nov 2016 - Dec 2016)
+### 1. Web App Developer, go-cart.io (May 2021 - Jul 2021)
+
+Web app development on go-cart.io under Prof Michael Gastner, a website which lets people generate and view cartograms (map-based data visualizations) using Python, C, and D3.JS
+
+- Updated documentation to support new developers and research assistants
+
+### 2. Research Analyst, TRIVE Ventures (Oct 2020 - Jul 2021)
+
+TRIVE is an seed stage Venture Capital firm based in Singapore, investing in the seed rounds of technology startups creating positive impact in Southeast Asia.
+
+- Conduct research and interviewing stakeholders in the Agri-Tech and Manufacturing space
+- Publishing decks on livestock, agriculture and aquaculture tech for TRIVE's AI Insights Series
+- Handled deal sourcing for the fund
+
+### 3. Business Operations, Rate (Dec 2019 - Apr 2020)
+
+Rate is an SG-headquartered series A startup that serves S.E.A e-commerce and Indonesia’s mobile-first social commerce app
+
+- Conducted various business operations and communications with cross-border stakeholders
+- Proactively sought to identify areas of improvements in Rate's business and supply chain operations and its tracking processes and present possible solutions
+
+### 4. National Service, Singapore Armed Forces
+
+Served in Maritime Security Task Force's Patrol Vessels after my time in NMI / SCS in weapons roles on the frontlines in PVs. Later continued and fulfilled military conscription in MSTF in HQ as its operations planner
+
+- Managing day to day ship operations and movements in 182SQN
+- Planning and assisting preparation of significant events and exercises
+- Managing stakeholders and liaising with other RSN units and external assets such as MPA
+- Proactively restructure workflow from paper and manual input to use more IT automation
+
+### 5. Legal Attachment, Advocatus Law (Nov 2016 - Dec 2016)
+
+As part of the Singapore Academy of Law's Junior College Law Program (JCLP), I attached with Advocatus Law, to shadow associates and gain exposure to the legal system in Singapore.
 
 ## School Life / Activities
 
-1. Protégé Ventures (Aug 2020 - Present)
+### 1. Protégé Ventures (Aug 2020 - Present)
 
-- Venture Associate (AY20/21 Sem 2 - Present)
-- Venture Analyst (AY20/21 Sem 1)
+Protégé Ventures is Southeast Asia's first student-led Venture Capital fund, investing in startups and helping student founders build scalable ventures
 
-2. NUS STARTiT (Aug 2020 - Present)
+#### Venture Associate (AY20/21 Sem 2 - Present)
 
-- Member, Student Relations (AY20/21)
+- Team lead for a research project on the usage of data science and analytics in venture capital.
+- Conduct deal sourcing and screening into student startups in Singapore
 
-3. Yale-NUS Entrepreneurship Society (Aug 2020 - Present)
+#### Venture Analyst (AY20/21 Sem 1)
 
-- Director of Partnerships (AY21/22)
-- Project Lead (AY20/21)
+- Conduct deal sourcing and screening into student startups in Singapore
+- Supporting potential deals through due diligence
 
-4. Yale-NUS Floorball (Aug 2020 - Present)
+### 2. NUS STARTiT (Aug 2020 - Present)
 
-- Just having fun playing floorball once/twice a week
+#### Member, Student Relations (AY20/21)
 
-5. Yale-NUS Southeast Asian Society (Aug 2020 - Present)
+- Support events and sourced speakers (ACE) for sharing session
+
+### 3. Yale-NUS Entrepreneurship Society (Aug 2020 - Present)
+
+#### Director of Partnerships (AY21/22)
+
+- Building new partnerships between YNES and organisations such as AWS and Rescale Lab
+
+#### Project Lead (AY20/21)
+
+- Planned and initiated startup validation program with speakers from various organisations such as AWS, Meet Ventures and NTUitive
+- Planned and initiated a semester startup visits program, with a visit to Rescale Lab and Draper Startup House
+
+### 4. Yale-NUS Floorball (Aug 2020 - Present)
+
+Just having fun playing floorball once/twice a week
+
+### 5. Yale-NUS Southeast Asian Society (Aug 2020 - Present)
+
+#### Member (AY20/21 - AY21/22)
+
+- Initiated a tie in with a VC firm to conduct a market research deck on agriculture together with members of SeaSoc
+
+#### Rakuten Product Management Programme
+
+- Product and Project management mentorship with Rakuten Asia
+- Utilized prioritization techniques such as matrixes to conduct market research
+- Presented a case study on an app improvement feature on Carousell to senior Rakuten PMs
 
 ## Hackathons / Case Competitions 💻
 
