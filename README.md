@@ -44,6 +44,7 @@ Pointless stats that don't even mean anything but make my profile look nice hehe
 
 | Course                              | Course Code | Elective         | Focus        | Academic Term |
 | :---------------------------------- | ----------- | :--------------- | :----------- | :------------ |
+| Quantitative Reasoning              | YCC1122     | Statistics       | Quantitative | Y1S1          |
 | Econometrics                        | YSS2211     | Economics        | Quantitative | Y1S2          |
 | Microeconomics                      | YSS2203     | Economics        | Business     | Y2S1          |
 | Bahasa Indonesian I                 | LAB1201     | Language         | Business     | Y1S2          |
