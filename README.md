@@ -16,17 +16,17 @@
 
 ## Online Coursework 📖
 
-| Specialization / Professional Certificate                    | Courses                                                      | Skills Gained                            | Institution            | Platform |
-| :----------------------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------- | :--------------------- | :------- |
-| [Web Design for Everybody Specialization](https://github.com/therealdydx/web-design-for-everybody) | - Introduction to HTML<br />- Introduction to CSS<br />- Interactivity with JavaScript<br />- Advanced Styling with Responsive Design<br />- Web Design Capstone | - HTML, CSS<br />- JavaScript, Bootstrap | University of Michigan | Coursera |
-|                                                              |                                                              |                                          |                        |          |
-|                                                              |                                                              |                                          |                        |          |
-|                                                              |                                                              |                                          |                        |          |
-|                                                              |                                                              |                                          |                        |          |
-|                                                              |                                                              |                                          |                        |          |
-|                                                              |                                                              |                                          |                        |          |
-|                                                              |                                                              |                                          |                        |          |
-|                                                              |                                                              |                                          |                        |          |
+| Specialization / Professional Certificate                    | Courses                                                      | Skills Gained                            | Institution                       |
+| :----------------------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------- | :-------------------------------- |
+| [Web Design for Everybody Specialization](https://github.com/therealdydx/web-design-for-everybody) | - Introduction to HTML<br />- Introduction to CSS<br />- Interactivity with JavaScript<br />- Advanced Styling with Responsive Design<br />- Web Design Capstone | - HTML, CSS<br />- JavaScript, Bootstrap | University of Michigan / Coursera |
+|                                                              |                                                              |                                          |                                   |
+|                                                              |                                                              |                                          |                                   |
+|                                                              |                                                              |                                          |                                   |
+|                                                              |                                                              |                                          |                                   |
+|                                                              |                                                              |                                          |                                   |
+|                                                              |                                                              |                                          |                                   |
+|                                                              |                                                              |                                          |                                   |
+|                                                              |                                                              |                                          |                                   |
 
 
 
