@@ -2,11 +2,12 @@
 
 ### Hey there, I'm DY 👋
 
-- Undergraduate from 🇸🇬 Singapore, studying at Yale-NUS, majoring in Economics
-- Laid-back yet serious Software Engineer and Venture Analyst
-- Write about my life experiences occasionally on Medium, check it out
-- Feel free to ask me about VCs, start-ups, politics, football (Arsenal yay) or just general advice
-- I play the piano, floorball, chess, clarinet (rarely), trading, reading politics and management, watch Korean and Chinese entertainment (Orbits :D) in my free time
+- 📖 Undergraduate from 🇸🇬 Singapore, studying at Yale-NUS, majoring in Economics
+- 💻 Laid-back yet serious Software Engineer and Venture Analyst
+- 🤔 Write about my life experiences occasionally on Medium, check it out below
+- 💬 Feel free to ask me about VCs, start-ups, politics, football (Arsenal yay) or just general advice
+- 😄I play the piano, floorball, chess, clarinet (rarely), trading, reading politics and management, watch Korean and Chinese entertainment (Orbits :D) in my free time
+- 👯 Hit me up for any projects or anything if you found my experience interesting
 
 ## Get in touch 🙋
 
