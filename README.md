@@ -3,9 +3,10 @@
 ### Hey there, I'm DY 👋
 
 - Undergraduate from 🇸🇬 Singapore, studying at Yale-NUS, majoring in Economics
-- Laid-back yet serious Software Developer and VC
+- Laid-back yet serious Software Engineer and Venture Analyst
 - Write about my life experiences occasionally on Medium, check it out
-- Feel free to ask me about VCs, start-ups, politics, football or just general advice
+- Feel free to ask me about VCs, start-ups, politics, football (Arsenal yay) or just general advice
+- I play the piano, floorball, chess, clarinet (rarely), trading, reading politics and management, watch Korean and Chinese entertainment (Orbits :D) in my free time
 
 ## Get in touch 🙋
 
@@ -14,46 +15,47 @@
 - Medium: medium.com/@therealdydx
 - Email: wangdongyue@outlook.sg / for VC matters: dongyue.wang@protege.vc
 
+## Pointless Stats 💻
+
+Pointless stats that don't even mean anything but make my profile look nice hehe.
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=therealdydx&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=therealdydx&theme=dark&hide_border=true" width = 400>
+</p>
+
 ## Online Coursework 📖
 
-| Specialization / Professional Certificate                    | Courses                                                      | Skills Gained                            | Institution                       |
-| :----------------------------------------------------------- | ------------------------------------------------------------ | ---------------------------------------- | :-------------------------------- |
-| [Web Design for Everybody Specialization](https://github.com/therealdydx/web-design-for-everybody) | - Introduction to HTML<br />- Introduction to CSS<br />- Interactivity with JavaScript<br />- Advanced Styling with Responsive Design<br />- Web Design Capstone | - HTML, CSS<br />- JavaScript, Bootstrap | University of Michigan / Coursera |
-|                                                              |                                                              |                                          |                                   |
-|                                                              |                                                              |                                          |                                   |
-|                                                              |                                                              |                                          |                                   |
-|                                                              |                                                              |                                          |                                   |
-|                                                              |                                                              |                                          |                                   |
-|                                                              |                                                              |                                          |                                   |
-|                                                              |                                                              |                                          |                                   |
-|                                                              |                                                              |                                          |                                   |
+| Specialization                                               | Courses                                                      | Institution                                               |
+| :----------------------------------------------------------- | ------------------------------------------------------------ | :-------------------------------------------------------- |
+| [Web Design for Everybody Specialization](https://github.com/therealdydx/web-design-for-everybody) | - Introduction to HTML<br />- Introduction to CSS<br />- Interactivity with JavaScript<br />- Advanced Styling with Responsive Design<br />- Web Design Capstone | University of Michigan / Coursera                         |
+| [Django for Everybody Specialization]()                      | - Web Application Technologies and Django<br />- Building Web Applications in Django<br />- Django Features and Libraries<br />- Using JavaScript, JQuery, and JSON in Django | University of Michigan / Coursera                         |
+| [Full-Stack Web Development with React Specialization]()     | - Frontend Web UI Frameworks and Tools: Bootstrap 4<br />- Frontend Web Development with React<br />- Server-side Development with NodeJS, Express and MongoDB | Hong Kong University of Science and Technology / Coursera |
+| [CS50 Introduction to Computer Science](https://github.com/therealdydx/cs50-computer-science) | - Scratch, C, Arrays<br />- Algorithms, Data Structures, Memory<br />- Python, SQL<br />- HTML, CSS, JavaScript, Flask<br />- Ethics, Security | HarvardX / edX                                            |
+| [CS50 Web Programming with Python and JavaScript](https://github.com/therealdydx/cs50-web-programming) | - HTML, CSS, Git<br />- Python, Django<br />- SQL, Models and Migrations<br />- JavaScript, User Interfaces<br />- Testing, CI/CD<br />- Scalability and Security | HarvardX / edX                                            |
+| [IBM Data Science Professional Certificate](https://github.com/therealdydx/ibm-data-science) | - What is Data Science<br />- Tools for Data Science<br />- Data Science Methodology<br />- Python for Data Science, AI and Development<br />- Python Project for Data Science<br />- Databases and SQL for Data Science with Python<br />- Data Analysis with Python<br />- Data Visualization with Python<br />- Machine Learning with Python<br />- Data Science Capstone | IBM / Coursera                                            |
+| IBM Applied AI Professional Certificate                      | - Intro to AI<br />- Getting Started with IBM Watson<br />- Building AI Chatbots without Programming<br />- Building AI Applications with Watson APIs<br />- Python Project for AI and App Development | IBM / Coursera                                            |
+| Entrepreneurship Specialization                              | - Developing the Opportunity<br />- Launching your Start-up<br />- Growth Strategies<br />- Financing and Profitability<br />- Entrepreneurship Capstone | University of Pennsylvania / Coursera                     |
 
 
-
-| Harvard | edX      | Computing | - CS50 Introduction to Computer Science (W-I-P)<br />- CS50 Artificial Intelligence with Python (W-I-P) |
-| :------ | -------- | :-------- | :----------------------------------------------------------- |
-| IBM     | Coursera | Computing | - IBM Applied AI Professional Certificate<br />- IBM Data Science Professional Certificate (W-I-P) |
-| UPenn   | Coursera | Finance   | - Entrepreneurship Specialization                            |
 
 ## Yale-NUS Coursework 📖
 
-| Institution | Distribution | Topic            | Discipline        | Courses                                                      |
-| :---------- | ------------ | :--------------- | :---------------- | :----------------------------------------------------------- |
-| Yale-NUS    | Campus       | Humanities       | Literature        | - YCC1111 Literature and Humanities I<br />- YCC1112 Literature and Humanities II |
-| Yale-NUS    | Campus       | Humanities       | Philosophy        | - YCC1113 Philosophy and Political Thought I<br />- YCC1114 Philosophy and Political Thought II |
-| Yale-NUS    | Campus       | Humanities       | Bahasa Indonesian | - LAB1201 Bahasa Indonesian I                                |
-| Yale-NUS    | Campus       | Natural Sciences | Biology           | - YCC1131 Scientific Inquiry I                               |
-| Yale-NUS    | Campus       | Social Sciences  | Sociology         | - YCC1121 Comparative Social Inquiry                         |
-| Yale-NUS    | Campus       | Social Sciences  | Economics         | - YSS2211 (Intermediate) Econometrics                        |
-| Harvard     | edX          | Computing        | Computer Science  | - CS50 Introduction to Computer Science (W-I-P)<br />- CS50 Artificial Intelligence with Python (W-I-P) |
-| IBM         | Coursera     | Computing        | Data Science      | - IBM Applied AI Professional Certificate<br />- IBM Data Science Professional Certificate (W-I-P) |
-| UPenn       | Coursera     | Finance          | Venture Capital   | - Entrepreneurship Specialization                            |
+| Course                              | Course Code | Elective         | Focus        | Academic Term |
+| :---------------------------------- | ----------- | :--------------- | :----------- | :------------ |
+| Econometrics                        | YSS2211     | Economics        | Quantitative | Y1S2          |
+| Microeconomics                      | YSS2203     | Economics        | Business     | Y2S1          |
+| Bahasa Indonesian I                 | LAB1201     | Language         | Business     | Y1S2          |
+| Literature and Humanities I         | YCC1111     | Literature       | Common Core  | Y1S1          |
+| Literature and Humanities II        | YCC1112     | Literature       | Common Core  | Y1S2          |
+| Philosophy and Political Thought I  | YCC1113     | Philosophy       | Common Core  | Y1S1          |
+| Philosophy and Political Thought II | YCC1114     | Philosophy       | Common Core  | Y1S2          |
+| Scientific Inquiry I                | YCC1131     | Natural Sciences | Common Core  | Y1S2          |
+| Scientific Inquiry II               | YCC2137     | Natural Sciences | Common Core  | Y2S1          |
+| Modern Social Thought               | YCC2121     | Sociology        | Common Core  | Y2S1          |
+| Comparative Social Inquiry          | YCC1121     | Sociology        | Common Core  | Y1S1          |
 
-
-
-
-
-### Work Experience
+## Work Experience
 
 1. Web App Developer, go-cart.io (May 2021 - Jul 2021)
 2. Research Analyst, TRIVE Ventures (Oct 2020 - Jul 2021)
@@ -62,7 +64,7 @@
 5. Weapons Specialist, Singapore Armed Forces (Jan 2018 - Jan 2019)
 6. Legal Attachment, Advocatus Law (Nov 2016 - Dec 2016)
 
-### School Life / Activities
+## School Life / Activities
 
 1. Protégé Ventures (Aug 2020 - Present)
 
@@ -84,34 +86,6 @@
 
 5. Yale-NUS Southeast Asian Society (Aug 2020 - Present)
 
-## Get in Touch! 🙋
-
-- Personal Website: W-I-P
-- LinkedIn: linkedin.com/in/dys-profile
-- Medium: medium.com/@therealdydx
-- Email: wangdongyue@outlook.sg / for VC matters: dongyue.wang@protege.vc
-
-### Work Experience
-
-
-
-
-
-- 
-- 
-
-
-
-Outside of projects, I also work as a venture analyst with Protégé Ventures and TRIVE (Venture Capital), handling deal sourcing for startups, doing industry research and coming up with theses for possible investment sectors. I also help run some events and projects for the Yale-NUS Entrepreneurship Society and the NUS Technopreneurship Society. 
-
-Outside of work related stuff, I play with Yale-NUS Floorball, play the piano on my own and study languages. Also I watch some chinese and korean entertainment from time to time :D
-
-
-
-- 
-
-
-
 ## Hackathons / Case Competitions 💻
 
 | Competition                         | Year | Type      | Discipline                         | Placing (if any) |
@@ -127,26 +101,11 @@ Outside of work related stuff, I play with Yale-NUS Floorball, play the piano on
 | Fidelity-ESG Case Challenge         | 2020 | Case Comp | Asset Management                   | Top 5            |
 | HSBC Private Banking Case Challenge | 2020 | Case Comp | Asset Management                   |                  |
 | Singapore Business Case Competition | 2020 | Case Comp | Strategy Consulting                |                  |
+| NES Ground Zero Startathon          | 2021 | Ideation  | Productivity (Ideation)            |                  |
 
 
 
-## Coursework 📖
-
-| Institution | Distribution | Topic            | Discipline        | Courses                                                      |
-| :---------- | ------------ | :--------------- | :---------------- | :----------------------------------------------------------- |
-| Yale-NUS    | Campus       | Humanities       | Literature        | - YCC1111 Literature and Humanities I<br />- YCC1112 Literature and Humanities II |
-| Yale-NUS    | Campus       | Humanities       | Philosophy        | - YCC1113 Philosophy and Political Thought I<br />- YCC1114 Philosophy and Political Thought II |
-| Yale-NUS    | Campus       | Humanities       | Bahasa Indonesian | - LAB1201 Bahasa Indonesian I                                |
-| Yale-NUS    | Campus       | Natural Sciences | Biology           | - YCC1131 Scientific Inquiry I                               |
-| Yale-NUS    | Campus       | Social Sciences  | Sociology         | - YCC1121 Comparative Social Inquiry                         |
-| Yale-NUS    | Campus       | Social Sciences  | Economics         | - YSS2211 (Intermediate) Econometrics                        |
-| Harvard     | edX          | Computing        | Computer Science  | - CS50 Introduction to Computer Science (W-I-P)<br />- CS50 Artificial Intelligence with Python (W-I-P) |
-| IBM         | Coursera     | Computing        | Data Science      | - IBM Applied AI Professional Certificate<br />- IBM Data Science Professional Certificate (W-I-P) |
-| UPenn       | Coursera     | Finance          | Venture Capital   | - Entrepreneurship Specialization                            |
-
-
-
-#### Other Certifications
+## Certifications
 
 | Institution          | Distribution | Topic     | Discipline        | Courses                                                      |
 | :------------------- | ------------ | :-------- | :---------------- | :----------------------------------------------------------- |
@@ -154,27 +113,3 @@ Outside of work related stuff, I play with Yale-NUS Floorball, play the piano on
 | Upcode Academy       | Campus       | Computing | Computer Science  | - Python Development Bootcamp (CITREP+)                      |
 | Microsoft            | Online       | Computing | Productivity      | - Microsoft Office Specialist: Word 2016<br />- Microsoft Office Specialist: Excel 2016 |
 | CFA Institute        | Online       | Finance   | Corporate Finance | - CFA Investment Foundations Program                         |
-
-
-
-
-
-## Future Projects: TBC 
-
-- Looking to build a website for university applicants, but have to finish some courses and schoolwork before I get started during the summer :D
-- Also looking to build some data science models for analyzing dealflow at Protégé Ventures
-- In the near future, interested in building models using MBTI to assess fit 
-- In far future, possibly building a grammar and spell checker in Bahasa Indonesian 
-
-
-
-### Fun Facts
-
-- 🔭 I’m currently working on finishing courses from Coursera and edX, and have quite a few that I'm looking to do
-- 
-- 👯 I’m looking to work on two projects in the near future, a grammar and plagiarism checker for Bahasa Indonesian and a university application database for university applicants to gain insights in the region
-- 🤔 I’m looking for help with building more technical competency and a clearer roadmap of what to learn
-- 💬 Ask me about VCs, start-ups, politics, music, football and entertainment :D
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I play the piano
-- 💻 Skills: C, Python, R, SQL, JavaScript, HTML, CSS, Financial Modelling
