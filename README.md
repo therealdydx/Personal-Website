@@ -18,7 +18,7 @@
 
 ## Pointless Stats 💻
 
-Pointless stats that don't even mean anything but make my profile look nice hehe.
+Pointless stats that don't even mean anything but make my profile look nice hehe. For what I've studied online and at Yale-NUS, as well as my competition and internship experience, feel free to slowly read the tables below. Cheers
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=therealdydx&show_icons=true&theme=bear" width = 400>
