@@ -59,13 +59,7 @@ Pointless stats that don't even mean anything but make my profile look nice hehe
 
 ## Work Experience
 
-### 1. Web App Developer, go-cart.io (May 2021 - Jul 2021)
-
-Web app development on go-cart.io under Prof Michael Gastner, a website which lets people generate and view cartograms (map-based data visualizations) using Python, C, and D3.JS
-
-- Updated documentation to support new developers and research assistants
-
-### 2. Research Analyst, TRIVE Ventures (Oct 2020 - Jul 2021)
+### 1. Research Analyst, TRIVE Ventures (Oct 2020 - Jul 2021)
 
 TRIVE is an seed stage Venture Capital firm based in Singapore, investing in the seed rounds of technology startups creating positive impact in Southeast Asia.
 
@@ -73,14 +67,14 @@ TRIVE is an seed stage Venture Capital firm based in Singapore, investing in the
 - Publishing decks on livestock, agriculture and aquaculture tech for TRIVE's AI Insights Series
 - Handled deal sourcing for the fund
 
-### 3. Business Operations, Rate (Dec 2019 - Apr 2020)
+### 2. Business Operations, Rate (Dec 2019 - Apr 2020)
 
 Rate is an SG-headquartered series A startup that serves S.E.A e-commerce and Indonesia’s mobile-first social commerce app
 
 - Conducted various business operations and communications with cross-border stakeholders
 - Proactively sought to identify areas of improvements in Rate's business and supply chain operations and its tracking processes and present possible solutions
 
-### 4. National Service, Singapore Armed Forces
+### 3. National Service, Singapore Armed Forces
 
 Served in Maritime Security Task Force's Patrol Vessels after my time in NMI / SCS in weapons roles on the frontlines in PVs. Later continued and fulfilled military conscription in MSTF in HQ as its operations planner
 
@@ -89,7 +83,7 @@ Served in Maritime Security Task Force's Patrol Vessels after my time in NMI / S
 - Managing stakeholders and liaising with other RSN units and external assets such as MPA
 - Proactively restructure workflow from paper and manual input to use more IT automation
 
-### 5. Legal Attachment, Advocatus Law (Nov 2016 - Dec 2016)
+### 4. Legal Attachment, Advocatus Law (Nov 2016 - Dec 2016)
 
 As part of the Singapore Academy of Law's Junior College Law Program (JCLP), I attached with Advocatus Law, to shadow associates and gain exposure to the legal system in Singapore.
 
