@@ -16,6 +16,105 @@
 - Medium: medium.com/@therealdydx
 - Email: wangdongyue@outlook.sg / for VC matters: dongyue.wang@protege.vc
 
+## Work Experience
+
+### 1. Protégé Ventures
+
+Protégé Ventures is Southeast Asia's first student-led Venture Capital fund, investing in startups and helping student founders build scalable ventures.
+
+#### Head of Special Projects (Jun 2021 - Present)
+
+- Initiated new special projects department, developing tech and other projects to improve PV's investments and operations processes
+- Developing statistical tests for predicting leniency of internal assessors for recruitment
+- Analyzing data to determine top recommenders and other statistics for recruitment
+
+#### Associate (Jan 2021 - Present)
+
+- Team lead for a research project on the usage of data science and analytics in venture capital.
+- Conduct deal sourcing and screening into student startups in Singapore
+
+#### Analyst (Aug 2020 - Jan 2021)
+
+- Conduct deal sourcing and screening into student startups in Singapore
+- Attend training on financial modelling, due diligence, market sizing and other components in VC
+
+### 2. TRIVE Ventures
+
+TRIVE is an seed stage Venture Capital firm based in Singapore, investing in the seed rounds of technology startups creating positive impact in Southeast Asia.
+
+#### Venture Analyst (Jun - Aug 2021)
+
+- Handling deal sourcing and screening for the Positive Impact Tech fund
+
+#### Research Analyst (Oct 2020 - Aug 2021)
+
+- Conduct market and tech research, as well as interviewing stakeholders from VCs and start-ups, to identify investment theses and opportunities within industries of investment mandate
+- Publish industry decks on agri-tech and electronics sectors in SEA for TRIVE's Insights Series
+
+### 3. RateS
+
+RateS is an SG-headquartered series A startup, backed by Vertex Ventures and Genesis Alternative Ventures. RateS serves S.E.A e-commerce and Indonesia’s mobile-first social commerce app.
+
+#### Business Operations (Dec 2019 - Apr 2020)
+
+- Conducted various business operations and communications with cross-border stakeholders
+- Proactively sought to identify areas of improvements in Rate's business and supply chain operations and its tracking processes and present possible solutions
+
+### 4. Singapore Armed Forces
+
+Served in Maritime Security Task Force's Patrol Vessels after my time in NMI / SCS in weapons roles on the frontlines in PVs. Later continued and fulfilled military conscription in MSTF in HQ.
+
+#### Operations Planner (Jan 2018 - Nov 2019)
+
+- Managing day to day ship operations and movements in 182SQN
+- Planning and assisting preparation of significant events and exercises
+- Managing stakeholders and liaising with other RSN units and external assets such as MPA
+- Proactively restructure workflow from paper and manual input to use more IT automation
+
+## School Life / Activities
+
+### 1. NUS StartIT
+
+NUS StartIT aims to be the platform for those seeking application of their technical skills with projects, as well as networking opportunities and competitions to hone their business acumen.
+
+#### Head of Client Engagement (Jun 2021 - Present)
+
+- Piloted ProjectX, a new technical consulting arm, for aspiring startup founders to understand their product's requirements
+- Securing external clients and working with them to scope and outline product strategy and timeline, as well as managing project teams
+
+#### Head of External Relations (Jun 2021 - Present)
+
+- In charge of securing sponsorships and stakeholders for events as well as sourcing professionals as speakers for bi-weekly sharing sessions
+- Piloted new research initiative for members to do investment theses for industries
+
+### 2. Yale-NUS Entrepreneurship Society
+
+#### Head of Partnerships (Dec 2020 - Present)
+
+- Sourcing professionals as speakers for sharing sessions and panels
+- Building new partnerships between YNES and organisations such as AWS and Rescale Lab
+
+- Planned and executed various initiatives, from startup visits to workshops
+
+### 3. Yale-NUS Floorball
+
+#### Member (Aug 2020 - Present)
+
+- Just having fun playing floorball once/twice a week
+
+### 4. Yale-NUS Global China Connection
+
+#### Vice President (Jun 2021 - Present)
+
+- Restructuring organisation to better increase efficiency
+
+### 5. Yale-NUS Southeast Asian Society
+
+#### Member (Aug 2020 - Present)
+
+- Initiated a tie in with a VC firm to conduct a market research deck on agriculture together with members of SeaSoc
+- Participated in Rakuten Product Management Programme, learnt about prioritization techniques and project management cycle, presented a case study to senior Rakuten PMs
+
 ## Pointless Stats 💻
 
 Pointless stats that don't even mean anything but make my profile look nice hehe. For what I've studied online and at Yale-NUS, as well as my competition and internship experience, feel free to slowly read the tables below. Cheers
@@ -38,16 +137,16 @@ Pointless stats that don't even mean anything but make my profile look nice hehe
 | **IBM Applied AI Professional Certificate**                  | - Intro to AI and IBM Watson<br />- Building AI Chatbots without Programming<br />- Building AI Applications with Watson APIs<br />- Python Project for AI and App Development | IBM / Coursera       |
 | **Entrepreneurship Specialization**                          | - Developing the Opportunity<br />- Launching your Start-up<br />- Growth Strategies<br />- Financing and Profitability<br />- Entrepreneurship Capstone | Wharton / Coursera   |
 
-
-
 ## Yale-NUS Coursework 📖
 
 | Course                              | Course Code | Elective         | Focus        | Academic Term |
 | :---------------------------------- | ----------- | :--------------- | :----------- | :------------ |
 | Quantitative Reasoning              | YCC1122     | Statistics       | Quantitative | Y1S1          |
 | Econometrics                        | YSS2211     | Economics        | Quantitative | Y1S2          |
-| Microeconomics                      | YSS2203     | Economics        | Business     | Y2S1          |
+| Investment Analysis and Economics   | YSS2233     | Economics        | Business     | Y2S1          |
+| Accounting for Decision Makers      | ACC1701X    | Business         | Business     | Y2S1          |
 | Bahasa Indonesian I                 | LAB1201     | Language         | Business     | Y1S2          |
+| Bahasa Indonesian II                | LAB2201     | Language         | Business     | Y2S1          |
 | Literature and Humanities I         | YCC1111     | Literature       | Common Core  | Y1S1          |
 | Literature and Humanities II        | YCC1112     | Literature       | Common Core  | Y1S2          |
 | Philosophy and Political Thought I  | YCC1113     | Philosophy       | Common Core  | Y1S1          |
@@ -56,85 +155,6 @@ Pointless stats that don't even mean anything but make my profile look nice hehe
 | Scientific Inquiry II               | YCC2137     | Natural Sciences | Common Core  | Y2S1          |
 | Modern Social Thought               | YCC2121     | Sociology        | Common Core  | Y2S1          |
 | Comparative Social Inquiry          | YCC1121     | Sociology        | Common Core  | Y1S1          |
-
-## Work Experience
-
-### 1. Research Analyst, TRIVE Ventures (Oct 2020 - Jul 2021)
-
-TRIVE is an seed stage Venture Capital firm based in Singapore, investing in the seed rounds of technology startups creating positive impact in Southeast Asia.
-
-- Conduct research and interviewing stakeholders in the Agri-Tech and Manufacturing space
-- Publishing decks on livestock, agriculture and aquaculture tech for TRIVE's AI Insights Series
-- Handled deal sourcing for the fund
-
-### 2. Business Operations, Rate (Dec 2019 - Apr 2020)
-
-Rate is an SG-headquartered series A startup that serves S.E.A e-commerce and Indonesia’s mobile-first social commerce app
-
-- Conducted various business operations and communications with cross-border stakeholders
-- Proactively sought to identify areas of improvements in Rate's business and supply chain operations and its tracking processes and present possible solutions
-
-### 3. National Service, Singapore Armed Forces
-
-Served in Maritime Security Task Force's Patrol Vessels after my time in NMI / SCS in weapons roles on the frontlines in PVs. Later continued and fulfilled military conscription in MSTF in HQ as its operations planner
-
-- Managing day to day ship operations and movements in 182SQN
-- Planning and assisting preparation of significant events and exercises
-- Managing stakeholders and liaising with other RSN units and external assets such as MPA
-- Proactively restructure workflow from paper and manual input to use more IT automation
-
-### 4. Legal Attachment, Advocatus Law (Nov 2016 - Dec 2016)
-
-As part of the Singapore Academy of Law's Junior College Law Program (JCLP), I attached with Advocatus Law, to shadow associates and gain exposure to the legal system in Singapore.
-
-## School Life / Activities
-
-### 1. Protégé Ventures (Aug 2020 - Present)
-
-Protégé Ventures is Southeast Asia's first student-led Venture Capital fund, investing in startups and helping student founders build scalable ventures
-
-#### Venture Associate (AY20/21 Sem 2 - Present)
-
-- Team lead for a research project on the usage of data science and analytics in venture capital.
-- Conduct deal sourcing and screening into student startups in Singapore
-
-#### Venture Analyst (AY20/21 Sem 1)
-
-- Conduct deal sourcing and screening into student startups in Singapore
-- Supporting potential deals through due diligence
-
-### 2. NUS STARTiT (Aug 2020 - Present)
-
-#### Member, Student Relations (AY20/21)
-
-- Support events and sourced speakers (ACE) for sharing session
-
-### 3. Yale-NUS Entrepreneurship Society (Aug 2020 - Present)
-
-#### Director of Partnerships (AY21/22)
-
-- Building new partnerships between YNES and organisations such as AWS and Rescale Lab
-
-#### Project Lead (AY20/21)
-
-- Planned and initiated startup validation program with speakers from various organisations such as AWS, Meet Ventures and NTUitive
-- Planned and initiated a semester startup visits program, with a visit to Rescale Lab and Draper Startup House
-
-### 4. Yale-NUS Floorball (Aug 2020 - Present)
-
-Just having fun playing floorball once/twice a week
-
-### 5. Yale-NUS Southeast Asian Society (Aug 2020 - Present)
-
-#### Member (AY20/21 - AY21/22)
-
-- Initiated a tie in with a VC firm to conduct a market research deck on agriculture together with members of SeaSoc
-
-#### Rakuten Product Management Programme
-
-- Product and Project management mentorship with Rakuten Asia
-- Utilized prioritization techniques such as matrixes to conduct market research
-- Presented a case study on an app improvement feature on Carousell to senior Rakuten PMs
 
 ## Hackathons / Case Competitions 💻
 
@@ -152,8 +172,6 @@ Just having fun playing floorball once/twice a week
 | HSBC Private Banking Case Challenge | 2020 | Case Comp | Asset Management                   |                  |
 | Singapore Business Case Competition | 2020 | Case Comp | Strategy Consulting                |                  |
 | NES Ground Zero Startathon          | 2021 | Ideation  | Productivity (Ideation)            |                  |
-
-
 
 ## Certifications
 
