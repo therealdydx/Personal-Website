@@ -20,7 +20,7 @@
 
 
 
-<img style = "float:left; width:10vw" src="https://miro.medium.com/max/2000/1*3vtxjFlySO8WQzoZ1gc_0w.png" alt="drawing"/>
+<img style = "float:left; width:10vw" src="https://protege.vc/wp-content/uploads/2020/02/cropped-Protege_logo_white.png" alt="drawing"/>
 
 ### 1. Protégé Ventures
 
@@ -42,7 +42,7 @@ Protégé Ventures is Southeast Asia's first student-led Venture Capital fund, i
 - Conduct deal sourcing and screening into student startups in Singapore
 - Attend training on financial modelling, due diligence, market sizing and other components in VC
 
-<img style = "float:left; width:10vw" src="https://images.squarespace-cdn.com/content/v1/5abc88094cde7a3bad906e95/1524457846179-HU27J08C6W4H7KYHZGS2/TRIVE+LOGO+%28Transparent+Background%29-01.png?format=1500w" alt="drawing"/>
+<img style = "float:left; width:10vw" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/gmzgjpfqjmbaioehnj7g" alt="drawing"/>
 
 ### 2. TRIVE Ventures
 
