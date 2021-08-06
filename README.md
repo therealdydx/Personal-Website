@@ -18,7 +18,7 @@
 
 ## Work Experience
 
-<img style="float: left" src="https://protege.vc/wp-content/uploads/2020/02/cropped-Protege_logo_white.png" alt="drawing" width="200vw"/>
+<img style="float: left" src="https://miro.medium.com/max/2000/1*3vtxjFlySO8WQzoZ1gc_0w.png" alt="drawing" width="250vw"/>
 
 ### 1. Protégé Ventures
 
