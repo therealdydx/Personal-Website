@@ -18,6 +18,10 @@
 
 ## Work Experience
 
+
+
+<img style = "float:left; width:20vw" src="https://miro.medium.com/max/2000/1*3vtxjFlySO8WQzoZ1gc_0w.png" alt="drawing"/>
+
 ### 1. Protégé Ventures
 
 Protégé Ventures is Southeast Asia's first student-led Venture Capital fund, investing in startups and helping student founders build scalable ventures.
@@ -38,6 +42,8 @@ Protégé Ventures is Southeast Asia's first student-led Venture Capital fund, i
 - Conduct deal sourcing and screening into student startups in Singapore
 - Attend training on financial modelling, due diligence, market sizing and other components in VC
 
+<img style = "float:left; width:20vw" src="https://images.squarespace-cdn.com/content/v1/5abc88094cde7a3bad906e95/1524457846179-HU27J08C6W4H7KYHZGS2/TRIVE+LOGO+%28Transparent+Background%29-01.png?format=1500w" alt="drawing"/>
+
 ### 2. TRIVE Ventures
 
 TRIVE is an seed stage Venture Capital firm based in Singapore, investing in the seed rounds of technology startups creating positive impact in Southeast Asia.
@@ -52,6 +58,8 @@ TRIVE is an seed stage Venture Capital firm based in Singapore, investing in the
 - Conduct market and tech research, as well as interviewing stakeholders from VCs and start-ups, to identify investment theses and opportunities within industries of investment mandate
 - Publish industry decks on agri-tech and electronics sectors in SEA for TRIVE's Insights Series
 
+<img style = "float:left; width:20vw" src="https://www.lokerindonesia.com/wp-content/uploads/gravity_forms/38-2d01411ecfbd036a01b31e485655ca18/2019/12/RateS-3-1.png" alt="drawing"/>
+
 ### 3. RateS
 
 RateS is an SG-headquartered series A startup, backed by Vertex Ventures and Genesis Alternative Ventures. RateS serves S.E.A e-commerce and Indonesia’s mobile-first social commerce app.
@@ -60,6 +68,8 @@ RateS is an SG-headquartered series A startup, backed by Vertex Ventures and Gen
 
 - Conducted various business operations and communications with cross-border stakeholders
 - Proactively sought to identify areas of improvements in Rate's business and supply chain operations and its tracking processes and present possible solutions
+
+<img style = "float:left; width:8vw" src="https://upload.wikimedia.org/wikipedia/en/a/aa/Crest_of_the_Singapore_Armed_Forces.png" alt="drawing"/>
 
 ### 4. Singapore Armed Forces
 
@@ -73,6 +83,8 @@ Served in Maritime Security Task Force's Patrol Vessels after my time in NMI / S
 - Proactively restructure workflow from paper and manual input to use more IT automation
 
 ## School Life / Activities
+
+<img style = "float:left; width:10vw" src="https://media-exp1.licdn.com/dms/image/C4E0BAQGtorVupx9FMg/company-logo_200_200/0/1626665046327?e=2159024400&v=beta&t=WK1KQvk8cCdkCKDYjB_cG4Zm4w3HemPTXCVwLvY84rc" alt="drawing"/>
 
 ### 1. NUS StartIT
 
@@ -88,6 +100,8 @@ NUS StartIT aims to be the platform for those seeking application of their techn
 - In charge of securing sponsorships and stakeholders for events as well as sourcing professionals as speakers for bi-weekly sharing sessions
 - Piloted new research initiative for members to do investment theses for industries
 
+<img style = "float:left; width:10vw" src="https://media-exp1.licdn.com/dms/image/C560BAQGghoiUKrDUJQ/company-logo_200_200/0/1610875905254?e=2159024400&v=beta&t=hZjZcFlSGWVVMPA0v0GG7Yj-8BLuJhlHKQiQSHFGHfE" alt="drawing"/>
+
 ### 2. Yale-NUS Entrepreneurship Society
 
 #### Head of Partnerships (Dec 2020 - Present)
@@ -97,17 +111,23 @@ NUS StartIT aims to be the platform for those seeking application of their techn
 
 - Planned and executed various initiatives, from startup visits to workshops
 
+<img style = "float:left; width:10vw" src="https://world.yale.edu/sites/default/files/images/YaleNUS_logo_squared-up.jpg" alt="drawing"/>
+
 ### 3. Yale-NUS Floorball
 
 #### Member (Aug 2020 - Present)
 
 - Just having fun playing floorball once/twice a week
 
+<img style = "float:left; width:10vw" src="https://media-exp3.licdn.com/dms/image/C4E0BAQHqEXkormo5Cg/company-logo_200_200/0/1519895596013?e=2159024400&v=beta&t=c91ME6ZxKUb1_LE6wxN758LyKbKf5pCn7_nfYV-JxuQ" alt="drawing"/>
+
 ### 4. Yale-NUS Global China Connection
 
 #### Vice President (Jun 2021 - Present)
 
 - Restructuring organisation to better increase efficiency
+
+<img style = "float:left; width:10vw" src="https://media-exp1.licdn.com/dms/image/C560BAQHp-vCiN03Mog/company-logo_200_200/0/1588561356901?e=2159024400&v=beta&t=pya0BftwBZJaewrFQ7mLAH9JQ_wodWTz_mywyTwQyF0" alt="drawing"/>
 
 ### 5. Yale-NUS Southeast Asian Society
 
