@@ -45,6 +45,7 @@ TRIVE is an seed stage Venture Capital firm based in Singapore, investing in the
 #### Venture Analyst (Jun - Aug 2021)
 
 - Handling deal sourcing and screening for the Positive Impact Tech fund
+- Conduct in-depth due diligence of start-ups across various tech sectors
 
 #### Research Analyst (Oct 2020 - Aug 2021)
 
