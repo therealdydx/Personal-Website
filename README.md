@@ -1,22 +1,80 @@
-# yo what's up
+# Hey there, I'm DY 👋
 
-### Hey there, I'm DY 👋
-
-- 📖 Undergraduate from 🇸🇬 Singapore, studying at Yale-NUS, majoring in Economics
-- 💻 Laid-back yet serious Software Engineer and Venture Analyst
+- 📖 Undergraduate from 🇸🇬 Singapore, studying at Yale-NUS, majoring in Computer Science(?)
+- 💻 Don't really code too much, laid-back developer and former VC
 - 🤔 Write about my life experiences occasionally on Medium, check it out below
 - 💬 Feel free to ask me about VCs, start-ups, politics, football (Arsenal yay) or just general advice
 - 😄I play the piano, floorball, chess, clarinet (rarely), trading, reading politics and management, watch Korean and Chinese entertainment (Orbits :D) in my free time
 - 👯 Hit me up for any projects or anything if you found my experience interesting
 
+
+
+## Tech Stack
+
+Not a great developer or know much to be honest, but here are some things I've picked up along the way:
+
+- HTML / CSS / Bootstrap
+- JavaScript
+  - React, Node,js
+  - jQuery
+- Python
+  - Flask, SQLAlchemy
+  - Pandas, NumPy, Scikit-learn
+- SQL
+  - SQLite
+- OCaml
+- RStudio
+- Stata
+
+- Docker
+
+
+
+## Other Skills
+
+- Certified Word and Excel Specialist (ha ha)
+- Fast PowerPoint maker - years of grunt experience
+- Adobe Lightroom - editing nice photos
+- Adobe Premiere Pro - editing decent videos
+- Financial Accounting, Financial Modelling - okok
+
+
+
 ## Get in touch 🙋
 
 - Personal Website: Work in progress :'-)
+
 - LinkedIn: linkedin.com/in/dys-profile
+
 - Medium: medium.com/@therealdydx
-- Email: wangdongyue@outlook.sg / for VC matters: dongyue.wang@protege.vc
+
+- Email: wangdongyue@outlook.sg
+
+  
 
 ## Work Experience
+
+| Role                             | Title          | Date                | Description                                                  | Role                                                         |
+| -------------------------------- | :------------- | ------------------- | ------------------------------------------------------------ | :----------------------------------------------------------- |
+| International Expansion, Intern  | Spenmo         | Feb 2022 - Present  | - Fintech Series B startup<br />- Company cards, local & overseas invoice payment, approval-based spending and accounting automation | - Currently helping build launch teams in new markets, sourcing and planning interviews with executives<br />- Communicating between expansion team and other departments through memos, presentations, reports, emails |
+| Venture Capital Analyst, Intern  | TRIVE          | Jun 2021 - Aug 2021 | - Seed-stage VC Fund in SG / SEA<br />- Invest in data-driven tech startups in SEA | - Handle extensive outbound deal sourcing and inbound screening of deep tech start-ups delivering impact<br />- Conduct due diligence of start-ups across various deep tech verticals, including identifying product-market-fit, competitor analysis, go-to-market strategy, calculating market sizing, exit opportunities, and valuation |
+| Research Analyst, Intern         | TRIVE          | Oct 2020 - Aug 2021 | (earlier)                                                    | - Built investment theses and identifying opportunities in agri-tech and electronics manufacturing in SEA, based on market and technology research, as well as interviewing various stakeholders from universities to start-ups founders<br />- Proactively improved operations and built new partnerships for portco support / investment |
+| Business Operations, Intern      | RateS          | Dec 2019 - Apr 2020 | - Series A social commerce tech startup<br />- Provide resellers with full range of distribution and credit services | - Tracked and updated order fulfilment of products from first to last mile, tracked current supply of products, as well as negotiating prices and liaising logistics with cross-border suppliers to stock up on products<br />- Evaluated operations processes and uncovering areas for improvement; proactively identified areas of improvement in terms of IT automation in ordering and first-mile processes, crafted proposals and presented solutions to company |
+| Operations Planner, Full Time NS | Singapore Navy | Jan 2018 - Nov 2019 | - Maritime Security Task Force for SG                        | - Responsible for training, deployment, and movement of a squadron with 300+ personnel<br />- Briefed senior officers daily on intelligence and activities and manage taskings of shipboard officers<br />- Acquired first-hand experience of crisis management skills through navigating geopolitical challenges<br />- Proactively restructured outdated squadron tracking processes with Excel points-based models and Outlook |
+
+
+
+
+
+## Other Work Experience
+
+
+
+
+
+
+
+
 
 <img style="float: left" src="https://miro.medium.com/max/2000/1*3vtxjFlySO8WQzoZ1gc_0w.png" alt="drawing" width="250vw"/>
 
@@ -35,38 +93,34 @@ Protégé Ventures is Southeast Asia's first student-led Venture Capital fund, i
 
 #### Associate (Jan 2021 - Present)
 
--   Team lead for a research project on the usage of data science and analytics in venture capital.
+-   Lead a research on the usage of data science and analytics in VC operations, successfully pushed for the creation of a tech division to explore this
     
--   Conduct deal sourcing and screening into student startups in Singapore
+-   Led a deal team to conduct extensive due diligence and prepare investment memo to IC for a pre-seed investment deal
     
 
 #### Analyst (Aug 2020 - Jan 2021)
 
--   Conduct deal sourcing and screening into student startups in Singapore
+-   Conduct deal sourcing and screening into student startups in Singapore; top analyst by deal flow
     
 -   Attend training on financial modelling, due diligence, market sizing and other components in VC
 
     
 
-<img style="float: left" src="https://images.squarespace-cdn.com/content/v1/5abc88094cde7a3bad906e95/1524457846179-HU27J08C6W4H7KYHZGS2/TRIVE+LOGO+%28Transparent+Background%29-01.png?format=1500w" alt="drawing" width="250vw"/>
 
-### 2. TRIVE Ventures
+
+### 2. TRIVE Venture Capital
 
 TRIVE is an seed stage Venture Capital firm based in Singapore, investing in the seed rounds of technology startups creating positive impact in Southeast Asia.
 
 #### Venture Analyst (Jun - Aug 2021)
 
--   Handling deal sourcing and screening for the Positive Impact Tech fund
-    
--   Conduct in-depth due diligence of start-ups across various tech sectors
-    
+- Handle extensive outbound deal sourcing and inbound screening of deep tech start-ups delivering impact
+- Conduct due diligence of start-ups across various deep tech verticals, including identifying product-market-fit, competitor analysis, go-to-market strategy, calculating market sizing, exit opportunities, and valuation
 
 #### Research Analyst (Oct 2020 - Aug 2021)
 
--   Conduct market and tech research, as well as interviewing stakeholders from VCs and start-ups, to identify investment theses and opportunities within industries of investment mandate
-    
--   Publish industry decks on agri-tech and electronics sectors in SEA for TRIVE's Insights Series
-    
+- Built investment theses and identifying opportunities in agri-tech and electronics manufacturing in SEA, based on market and technology research, as well as interviewing various stakeholders from universities to start-ups
+- Proactively improved operations; built new partnerships for portco support / investment and worked on special projects
 
 <img style = "float: left" src="https://www.lokerindonesia.com/wp-content/uploads/gravity_forms/38-2d01411ecfbd036a01b31e485655ca18/2019/12/RateS-3-1.png" alt="drawing" width="200vw"/>
 
@@ -76,10 +130,8 @@ RateS is an SG-headquartered series A startup, backed by Vertex Ventures and Gen
 
 #### Business Operations (Dec 2019 - Apr 2020)
 
--   Conducted various business operations and communications with cross-border stakeholders
-    
--   Proactively sought to identify areas of improvements in Rate's business and supply chain operations and its tracking processes and present possible solutions
-    
+- Tracked and updated order fulfilment of products from first to last mile, tracked current supply of products, as well as negotiating prices and liaising logistics with cross-border suppliers to stock up on products
+- Evaluated operations processes and uncovering areas for improvement; proactively identified areas of improvement in terms of IT automation in ordering and first-mile processes, crafted proposals and presented solutions to company
 
 <img style = "float: left" src="https://upload.wikimedia.org/wikipedia/en/a/aa/Crest_of_the_Singapore_Armed_Forces.png" alt="drawing" width="130vw"/>
 
@@ -89,14 +141,12 @@ Served in Maritime Security Task Force's Patrol Vessels after my time in NMI / S
 
 #### Operations Planner (Jan 2018 - Nov 2019)
 
--   Managing day to day ship operations and movements in 182SQN
-    
--   Planning and assisting preparation of significant events and exercises
-    
--   Managing stakeholders and liaising with other RSN units and external assets such as MPA
-    
--   Proactively restructure workflow from paper and manual input to use more IT automation
-    
+-   Tracking and planning day to day operations (training, deployment, and activities) of a squadron with 300+ personnel
+-   Drafted intelligence and ops decks and briefed senior officers daily, and managed taskings of shipboard officers
+-   Working with stakeholders and liaising with other RSN units and external assets such as MPA            
+-   Proactively improved operations, restructured outdated squadron tracking processes with manual input to use Excel models and Outlook instead
+
+
 
 ## School Life / Activities
 
@@ -106,9 +156,9 @@ Served in Maritime Security Task Force's Patrol Vessels after my time in NMI / S
 
 NUS StartIT aims to be the platform for those seeking application of their technical skills with projects, as well as networking opportunities and competitions to hone their business acumen.
 
-#### Head of Client Engagement (Jun 2021 - Present)
+#### Head of ProjectX (Jun 2021 - Present)
 
--   Piloted ProjectX, a new technical consulting arm, for aspiring startup founders to understand their product's requirements
+-   Led new initiative – Project X – a technology consulting arm that helps start-ups and organisations from roadmap-to-implementation of their technology requirements
     
 -   Securing external clients and working with them to scope and outline product strategy and timeline, as well as managing project teams
     
@@ -117,7 +167,7 @@ NUS StartIT aims to be the platform for those seeking application of their techn
 
 -   In charge of securing sponsorships and stakeholders for events as well as sourcing professionals as speakers for bi-weekly sharing sessions
     
--   Piloted new research initiative for members to do investment theses for industries
+-   Piloted new research initiative for members to do investment theses for industries, as well as other special projects
     
 
 <img style = "float: left" src="https://media-exp1.licdn.com/dms/image/C560BAQGghoiUKrDUJQ/company-logo_200_200/0/1610875905254?e=2159024400&v=beta&t=hZjZcFlSGWVVMPA0v0GG7Yj-8BLuJhlHKQiQSHFGHfE" alt="drawing" width="150vw"/>
@@ -148,8 +198,8 @@ NUS StartIT aims to be the platform for those seeking application of their techn
 
 #### Vice President (Jun 2021 - Present)
 
--   Restructuring organisation to better increase efficiency
-    
+-   Restructuring organisation for greater transparency and clarity over workflow
+-   Leading 2 departments to plan and execute various events over both business and cultural verticals
 
 <img style = "float: left" src="https://media-exp1.licdn.com/dms/image/C560BAQHp-vCiN03Mog/company-logo_200_200/0/1588561356901?e=2159024400&v=beta&t=pya0BftwBZJaewrFQ7mLAH9JQ_wodWTz_mywyTwQyF0" alt="drawing" width="130vw"/>
 
