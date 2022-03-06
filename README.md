@@ -13,10 +13,17 @@
 
 Don't know much to be honest, but here are some things I've picked up along the way:
 
-- General Purpose Languages: ![C++](https://camo.githubusercontent.com/a15439b643ad9ec2349624ae6d297bc8dd7883b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2532302d2532333030353939432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d432b2b266c6f676f436f6c6f723d7768697465)![Python](https://camo.githubusercontent.com/9aba804975d02d3c34dfcd52dc43793df007058c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2532302d2532333337373641422e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465) ![OCaml](https://camo.githubusercontent.com/4cac00ff680ab897f5349aa9bd69a8d92214f5b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f43616d6c2532302d2532334543363831332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4f43616d6c266c6f676f436f6c6f723d7768697465?ref=morioh.com&utm_source=morioh.com)![JS](https://camo.githubusercontent.com/9fe832ffdaa158e05c483d0370c9cf99efb03be2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742532302d2532334637444631452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d7768697465)
-- Web Development: HTML  |  CSS + Bootstrap  |  jQuery  |  React  |  Node  |  Flask  |  SQLAlchemy
-- Data Science:  NumPy |  Python  |  SQL  |  RStudio  |  Stata ![Scikit-Learn](https://img.shields.io/badge/-sklearn-333333?style=flat&logo=scikitlearn) ![Pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas)
-- Infrastructure:   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+- General Purpose Languages:
+
+   ![C++](https://camo.githubusercontent.com/a15439b643ad9ec2349624ae6d297bc8dd7883b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2532302d2532333030353939432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d432b2b266c6f676f436f6c6f723d7768697465)![Python](https://camo.githubusercontent.com/9aba804975d02d3c34dfcd52dc43793df007058c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2532302d2532333337373641422e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465) ![OCaml](https://camo.githubusercontent.com/4cac00ff680ab897f5349aa9bd69a8d92214f5b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f43616d6c2532302d2532334543363831332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4f43616d6c266c6f676f436f6c6f723d7768697465?ref=morioh.com&utm_source=morioh.com)![JS](https://camo.githubusercontent.com/9fe832ffdaa158e05c483d0370c9cf99efb03be2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742532302d2532334637444631452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d7768697465)
+
+- Web Development: 
+
+
+
+
+
+WebDevelopment: HTML  |  CSS + Bootstrap  |  jQuery  |  React  |  Node  |  Flask  |  SQLAlchemyData Science:  NumPy |  Python  |  SQL  |  RStudio  |  Stata ![Scikit-Learn](https://img.shields.io/badge/-sklearn-333333?style=flat&logo=scikitlearn) ![Pandas](https://img.shields.io/badge/-pandas-333333?style=flat&logo=pandas)Infrastructure:   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 
 
