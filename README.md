@@ -13,10 +13,9 @@
 
 Not a great developer or know much to be honest, but here are some things I've picked up along the way:
 
-- Some facets of what I do:
-  - General Purpose Languages: Python | OCaml | JavaScript | C
-  - Web Development: HTML | CSS + Bootstrap | jQuery | React | Node | Flask | SQLAlchemy
-  - Data Science: Pandas | NumPy | Scikit-learn | Python | SQL | RStudio | Stata
+- General Purpose Languages: Python | OCaml | JavaScript | C
+- Web Development: HTML | CSS + Bootstrap | jQuery | React | Node | Flask | SQLAlchemy
+- Data Science: Pandas | NumPy | Scikit-learn | Python | SQL | RStudio | Stata
 
 
 
