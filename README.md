@@ -2,9 +2,9 @@
 
 - 📖 Undergraduate from 🇸🇬 Singapore, studying at Yale-NUS, majoring in Computer Science(?)
 - 💻 Don't really code too much, laid-back developer and former VC
-- 🤔 Write about my life experiences occasionally on Medium, check it out below
-- 💬 Feel free to ask me about VCs, start-ups, politics, football (Arsenal yay) or just general advice
-- 😄I play the piano, floorball, chess, clarinet (rarely), trading, reading politics and management, watch Korean and Chinese entertainment (Orbits :D) in my free time
+- 🤔 Write about my life experiences occasionally on Medium / IG
+- 💬 Feel free to ask me about VCs, politics, football, or just general advice like relationships LOL
+- 😄I play the piano, floorball, chess, clarinet, trading, reading politics and philosophy, watch Korean and Chinese entertainment in my free time
 - 👯 Hit me up for any projects or anything if you found my experience interesting
 
 
@@ -13,20 +13,10 @@
 
 Not a great developer or know much to be honest, but here are some things I've picked up along the way:
 
-- HTML / CSS / Bootstrap
-- JavaScript
-  - React, Node,js
-  - jQuery
-- Python
-  - Flask, SQLAlchemy
-  - Pandas, NumPy, Scikit-learn
-- SQL
-  - SQLite
-- OCaml
-- RStudio
-- Stata
-
-- Docker
+- Some facets of what I do:
+  - General Purpose Languages: Python | OCaml | JavaScript | C
+  - Web Development: HTML | CSS + Bootstrap | jQuery | React | Node | Flask | SQLAlchemy
+  - Data Science: Pandas | NumPy | Scikit-learn | Python | SQL | RStudio | Stata
 
 
 
