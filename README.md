@@ -47,7 +47,6 @@ Don't know much to be honest, but here are some things I've picked up along the 
 - Enjoys Weightlifting (Power Cleans, Deadlifts)  |  Sprinting  |  Middle Distance < 3000m
 - Used to like gaming but started disliking it starting 2017
 - I play the piano whenever I have time and read about politics / markets / philosophy
-- Single and probably need some time to evaluate myself after two failed experiences **💀**
 
 
 
