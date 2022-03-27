@@ -5,7 +5,7 @@
 - 💻 Don't really code too much, laid-back developer and former VC
 - 🤔 Write about my life experiences occasionally on Medium / IG
 - 💬 Feel free to ask me about VCs, politics, football, or just general advice like relationships LOL
-- 😄I play the piano, floorball, chess, clarinet, trading, reading politics and philosophy, watch Korean and Chinese entertainment in my free time
+- 😄I play the piano, floorball, chess, oly weightlifting, trading, reading politics, watch Korean and Chinese entertainment
 - An educator at heart, I love helping people think through their problems or think about learning methodologies
 - 👯 Hit me up for any projects or anything if you found my experience interesting
 
