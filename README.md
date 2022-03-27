@@ -1,4 +1,4 @@
-# An educator at heart
+# Welcome!!!!!!!!!!!!!!!!!!!
 
 - 📖 Undergraduate from 🇸🇬 Singapore, studying at Yale-NUS, majoring in Computer Science(?)
 - Speak English, Mandarin Chinese, and Bahasa Indonesian
@@ -6,6 +6,7 @@
 - 🤔 Write about my life experiences occasionally on Medium / IG
 - 💬 Feel free to ask me about VCs, politics, football, or just general advice like relationships LOL
 - 😄I play the piano, floorball, chess, clarinet, trading, reading politics and philosophy, watch Korean and Chinese entertainment in my free time
+- An educator at heart, I love helping people think through their problems or think about learning methodologies
 - 👯 Hit me up for any projects or anything if you found my experience interesting
 
 
