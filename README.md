@@ -53,7 +53,7 @@ Don't know much to be honest, but here are some things I've picked up along the 
 
 ## Get in touch 🙋
 
-- Personal Website: Work in progress :'-)
+- Personal Website: therealdydx.notion.site (tentative)
 - Linkedin: linkedin.com/in/dys-profile
 - Email: wangdongyue@outlook.sg
 
