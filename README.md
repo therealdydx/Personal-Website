@@ -43,7 +43,7 @@ Don't know much to be honest, but here are some things I've picked up along the 
 - Former Varsity Floorball Player and Field Hockey Player, can also play Football (Soccer)
 - Likes watching Arsenal FC, Diamond League sprinting events, and F1
 - I play the piano and chess occasionally
-- I readjust my financial portfolio every few months, recent wins coming from put options in big tech and oil stocks, while losses coming from crypto
+- I readjust my financial portfolio every few months, happy to chat about strategies
 - Read a lot of geopolitics (much less nowadays), so happy to talk about that
 - Also enjoy watching Korean and Chinese entertainment be it dramas or K-pop, but been a little busy in recent years
 
@@ -63,10 +63,13 @@ Don't know much to be honest, but here are some things I've picked up along the 
 
 - **Feb 2022 - Jul 2022  |  Market Expansion  |  Spenmo**
   - Fintech Series B startup, providing company cards, local & overseas invoice payment, approval-based spending and accounting automation
+
 - **Oct 2020 - Aug 2021  |  Venture Capital Analyst  |  TRIVE Ventures**
-  -  Seed-stage VC Fund in SG / SEA, investing in data-driven tech startups in SEA, with new $40m deep tech investment fund
+  - Seed-stage VC Fund in SG / SEA, investing in data-driven tech startups in SEA, with new $40m deep tech investment fund
+
 - **Dec 2019 - Apr 2020  |  Business Operations  |  RateS**
   - Series A social commerce tech startup, providing resellers with full range of distribution and credit services
+
 - **Jan 2018 - Nov 2019  |  Operations Planning  |  Singapore Armed Forces**
   - Maritime Security Task Force for Singapore, managing Singapore's coastal defenses and waters
 
@@ -76,8 +79,10 @@ Don't know much to be honest, but here are some things I've picked up along the 
 
 - **May 2021 - Jun 2022  |  Co-Founder  |  Iterate @ StartIT**
   - Iterate @ StartIT (formerly Project X) is a low-cost IT outsourcing hub that helps aspiring student startup founders build their products and GTM quickly, while protecting equity and cash flow
+
 - **Aug 2020 - Jan 2022  |  Investment Associate  |  Protégé Ventures**
   - Southeast Asia's first student-led Venture Capital fund, investing in startups and helping student founders build scalable ventures
+
 - **Aug 2021 - May 2022  |  Startup Recruitment |  Bridges for Enterprise**
   - Global non-profit providing pro-bono advisory to social impact startups in developing countries, with several student chapters worldwide
 
@@ -87,13 +92,14 @@ Don't know much to be honest, but here are some things I've picked up along the 
 
 - **Sports Activities:**
   - Yale-NUS ICG Road Relay Team, NUS Recreational Floorball Club, Yale-NUS Floorball Team
+
 - **Clubs and Societies:**
   - Global China Connection (Vice President), Entrepreneurship Society (Head, Partnerships), StartIT (Head of External Relations), Bridges for Enterprise
-- **Coursework (listed below)**
+- **Coursework**
 
 
 
-## Yale-NUS Coursework 📖
+##  Coursework 📖
 
 #### Major / Minor Coursework
 
