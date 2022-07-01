@@ -88,7 +88,9 @@ Don't know much to be honest, but here are some things I've picked up along the 
 
 
 
-## School Life / Activities
+## Education
+
+#### Yale-NUS College, Computer Science and Psychology
 
 - **Sports Activities:**
   - Yale-NUS ICG Road Relay Team, NUS Recreational Floorball Club, Yale-NUS Floorball Team
@@ -96,52 +98,15 @@ Don't know much to be honest, but here are some things I've picked up along the 
 - **Clubs and Societies:**
   - Global China Connection (Vice President), Entrepreneurship Society (Head, Partnerships), StartIT (Head of External Relations), Bridges for Enterprise
 - **Coursework**
-
-
-
-##  Coursework 📖
-
-#### Major / Minor Coursework
-
-- CS Coursework
-  - YSC1212 Introduction to Computer Science
-  - YSC2221 Introduction to Python
-  - CS2040 Data Structures and Algorithms
-  - CS1331x Object-Oriented Programming with Java (edX)
-- Statistics Coursework
-  - YCC1122 Quantitative Reasoning
-  - YSS2211 Econometrics
-  - YSC2232 Linear Algebra
-- Psychology Coursework
-  - YSS2201 Introduction to Psychology
-
-#### Other Relevant Coursework
-
-- Business Coursework
-  - YSS2233 Investment Analysis and Economics
-  - ACC1701 Accounting for Decision Makers
-  - MSE178 The Spirit of Entrepreneurship (Stanford)
-  - MSE472 Entrepreneurial Thought Leader Seminars (Stanford)
-  - TR4049N Seminars in Entrepreneurship
-  - TR3002N New Venture Creation
-  - TR3203N Start-up Case Study and Analysis
-- Language Coursework
-  - LAB1201 Bahasa Indonesian I
-  - LAB2201 Bahasa Indonesian II
-
-#### Other Coursework (Mandatory Common Curriculum)
-
-- Literature Coursework
-  - YCC1111 Literature and Humanities I
-  - YCC1112 Literature and Humanities II 
-- Philosophy Coursework
-  - YCC1121 Comparative Social Inquiry
-  - YCC1113 Philosophy and Political Thought I
-  - YCC1114 Philosophy and Political Thought II
-  - YCC2121 Modern Social Thought
-- Sciences Coursework
-  - YCC1131 Scientific Inquiry I 
-  - YCC2137 Scientific Inquiry II
+  - **Computer Science:** Introduction to Computer Science, Python, Data Structures and Algorithms, Object-Oriented Programming with Java (edX)
+  - **Statistics:** Quantitative Reasoning, Linear Algebra, Econometrics
+  - **Finance:** Investment Analysis and Economics, Accounting for Decision Makers
+  - **Technology Entrepreneurship:** New Venture Creation, Seminars in Entrepreneurship, Global Entrepreneurial Marketing (Stanford), Start-up Case Study and Analysis
+  - **Psychology:** Introduction to Psychology
+  - **Southeast Asian Studies:** Bahasa Indonesian I, Bahasa Indonesian II
+  - **Literature:** Literature and Humanities I, Literature and Humanities II
+  - **Philosophy:** Comparative Social Inquiry, Philosophy and Political Thought I, Philosophy and Political Thought II, Modern Social Thought
+  - **Sciences:** Scientific Inquiry I, Scientific Inquiry II
 
 
 
