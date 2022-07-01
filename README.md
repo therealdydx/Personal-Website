@@ -61,16 +61,18 @@ Don't know much to be honest, but here are some things I've picked up along the 
 
 #### Work Experiences
 
-- **Feb 2022 - Jul 2022  |  Market Expansion  |  Spenmo**
+- **Aug 2022 - Present  |  Growth and Product  |  CoffeeSpace  |  San Francisco**
+  - Seed stage startup, social network for career, startups, and professionals to seek advisory and help on demand
+- **Feb 2022 - Jul 2022  |  Market Expansion  |  Spenmo  |  Singapore**
   - Fintech Series B startup, providing company cards, local & overseas invoice payment, approval-based spending and accounting automation
 
-- **Oct 2020 - Aug 2021  |  Venture Capital Analyst  |  TRIVE Ventures**
+- **Oct 2020 - Aug 2021  |  Venture Capital Analyst  |  TRIVE Ventures  |  Singapore**
   - Seed-stage VC Fund in SG / SEA, investing in data-driven tech startups in SEA, with new $40m deep tech investment fund
 
-- **Dec 2019 - Apr 2020  |  Business Operations  |  RateS**
+- **Dec 2019 - Apr 2020  |  Business Operations  |  RateS  |  Singapore**
   - Series A social commerce tech startup, providing resellers with full range of distribution and credit services
 
-- **Jan 2018 - Nov 2019  |  Operations Planning  |  Singapore Armed Forces**
+- **Jan 2018 - Nov 2019  |  Operations Planning  |  SAF  | Singapore**
   - Maritime Security Task Force for Singapore, managing Singapore's coastal defenses and waters
 
 
