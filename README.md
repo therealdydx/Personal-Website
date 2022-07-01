@@ -1,11 +1,11 @@
 # Hi there...
 
 - 📖 Studying at Yale-NUS, majoring in Computer Science and Psychology
-- Speak English, Mandarin Chinese, and Bahasa Indonesian
+- 🗣️ Speak English, Mandarin Chinese, and Bahasa Indonesian
 - 💻 Code a little bit, but mostly been involved with business ops, VC, new market expansion, strategic partnerships and BD thus far
 - 🤔 Write about my life experiences occasionally, feel free to ask me what I think
 - 💬 Feel free to chat with me about startups, politics, sports, or just general advice like relationships
-- An educator at heart, I love helping people think through their problems or think about learning methodologies
+- 🏫 An educator at heart, I love helping people think through their problems or think about learning methodologies
 - 👯 Hit me up for any projects or anything if you found my experience interesting
 
 
@@ -101,40 +101,15 @@ Don't know much to be honest, but here are some things I've picked up along the 
   - **Computer Science:** Introduction to Computer Science, Python, Data Structures and Algorithms, Object-Oriented Programming with Java (edX)
   - **Statistics:** Quantitative Reasoning, Linear Algebra, Econometrics
   - **Finance:** Investment Analysis and Economics, Accounting for Decision Makers
-  - **Technology Entrepreneurship:** New Venture Creation, Seminars in Entrepreneurship, Global Entrepreneurial Marketing (Stanford), Start-up Case Study and Analysis
+  - **Entrepreneurship:** New Venture Creation, Seminars in Entrepreneurship, Global Entrepreneurial Marketing (Stanford), Start-up Case Study and Analysis
   - **Psychology:** Introduction to Psychology
-  - **Southeast Asian Studies:** Bahasa Indonesian I, Bahasa Indonesian II
+  - **SE Asian Studies:** Bahasa Indonesian I, Bahasa Indonesian II
   - **Literature:** Literature and Humanities I, Literature and Humanities II
   - **Philosophy:** Comparative Social Inquiry, Philosophy and Political Thought I, Philosophy and Political Thought II, Modern Social Thought
   - **Sciences:** Scientific Inquiry I, Scientific Inquiry II
 
 
 
-## Hackathons / Case Competitions 💻
+## Projects 💻
 
-| Competition                         | Year | Type      | Discipline                         | Placing (if any) |
-| :---------------------------------- | ---- | --------- | :--------------------------------- | :--------------- |
-| NUS-SIT PRISM Social Hackathon      | 2019 | Ideation  | Social Enterprise (Ideation)       |                  |
-| MINDEF Pitch Challenge              | 2019 | Ideation  | IoT (Ideation)                     |                  |
-| Shopee Best Coder Challenge         | 2019 | Hackathon | Data Analytics                     | Top 3%           |
-| NES Ground Zero Startation          | 2020 | Ideation  | EdTech (Ideation)                  |                  |
-| AIESEC Tech for Good Hackathon      | 2020 | Ideation  | Retail (Ideation)                  |                  |
-| SCDF x IBM Call for Code            | 2020 | Hackathon | Hackathon - IoT / Machine Learning |                  |
-| Shopee Code League                  | 2020 | Hackathon | Algorithms                         |                  |
-| AI4Impact Deep Learning Datathon    | 2020 | Hackathon | Machine Learning                   | Top 10           |
-| Fidelity-ESG Case Challenge         | 2020 | Case Comp | Asset Management                   | Top 5            |
-| HSBC Private Banking Case Challenge | 2020 | Case Comp | Asset Management                   |                  |
-| Singapore Business Case Competition | 2020 | Case Comp | Strategy Consulting                |                  |
-| NES Ground Zero Startathon          | 2021 | Ideation  | Productivity (Ideation)            |                  |
-| StartIT BitHacks Startup Simulator  | 2022 | Ideation  | EdTech (Ideation)                  | Top 3            |
-
-
-
-## Certifications
-
-| Institution          | Distribution | Discipline        | Courses                                                      |
-| :------------------- | ------------ | :---------------- | :----------------------------------------------------------- |
-| Gen Infiniti Academy | Campus       | Data Science      | - WILEY Certified Data Analyst (CITREP+)                     |
-| Upcode Academy       | Campus       | Computer Science  | - Python Development Bootcamp (CITREP+)                      |
-| Microsoft            | Online       | Productivity      | - Microsoft Office Specialist: Word 2016<br />- Microsoft Office Specialist: Excel 2016 |
-| CFA Institute        | Online       | Corporate Finance | - CFA Investment Foundations Program                         |
+(To be updated)
