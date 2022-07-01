@@ -1,11 +1,10 @@
-# Welcome!!!!!!!!!!!!!!!!!!!
+# Hi there...
 
-- 📖 Undergraduate from 🇸🇬 Singapore, studying at Yale-NUS, majoring in Computer Science(?)
+- 📖 Studying at Yale-NUS, majoring in Computer Science and Psychology
 - Speak English, Mandarin Chinese, and Bahasa Indonesian
-- 💻 Don't really code too much, laid-back developer and former VC
-- 🤔 Write about my life experiences occasionally on Medium / IG
-- 💬 Feel free to ask me about VCs, politics, football, or just general advice like relationships LOL
-- 😄I play the piano, floorball, chess, oly weightlifting, trading, reading politics, watch Korean and Chinese entertainment
+- 💻 Code a little bit, but mostly been involved with business ops, VC, new market expansion, strategic partnerships and BD thus far
+- 🤔 Write about my life experiences occasionally, feel free to ask me what I think
+- 💬 Feel free to chat with me about startups, politics, sports, or just general advice like relationships
 - An educator at heart, I love helping people think through their problems or think about learning methodologies
 - 👯 Hit me up for any projects or anything if you found my experience interesting
 
@@ -16,38 +15,37 @@
 Don't know much to be honest, but here are some things I've picked up along the way:
 
 - **General Purpose Languages:**
-
-![C+](https://camo.githubusercontent.com/a15439b643ad9ec2349624ae6d297bc8dd7883b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2532302d2532333030353939432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d432b2b266c6f676f436f6c6f723d7768697465)  ![Python](https://camo.githubusercontent.com/9aba804975d02d3c34dfcd52dc43793df007058c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2532302d2532333337373641422e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465)  ![OCaml](https://camo.githubusercontent.com/4cac00ff680ab897f5349aa9bd69a8d92214f5b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f43616d6c2532302d2532334543363831332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4f43616d6c266c6f676f436f6c6f723d7768697465?ref=morioh.com&utm_source=morioh.com)  ![JS](https://camo.githubusercontent.com/9fe832ffdaa158e05c483d0370c9cf99efb03be2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742532302d2532334637444631452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d7768697465)
+  - C, Python, OCaml, JavaScript, Java
 
 - **Web Development:** 
-
-![HTML](https://camo.githubusercontent.com/a60086a8ccb68c5596213f6296a028689559032c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352532302d2532334533344632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d48544d4c35266c6f676f436f6c6f723d7768697465)  ![CSS](https://camo.githubusercontent.com/d4d2e39a6aff3f1a99586f119ffcd3fb809d91c9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332532302d2532333135373242362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d43535333266c6f676f436f6c6f723d7768697465)  ![Bootstrap](https://camo.githubusercontent.com/e6c6649ac1181614f434e42665fd2b48799de380/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702532302d2532333536334437432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d426f6f747374726170266c6f676f436f6c6f723d7768697465)  ![jQuery](https://camo.githubusercontent.com/f069b14d4f75bd05f983c3cc629be0b9162ae2cd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a51756572792532302d2532333037363941442e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a5175657279266c6f676f436f6c6f723d7768697465)  ![React](https://camo.githubusercontent.com/9f73cc3ca53f4f6ba2bd3db11812f4f0b63e9ea1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742532302d2532333631444146422e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d5265616374266c6f676f436f6c6f723d7768697465)  ![Node](https://camo.githubusercontent.com/5d7ea9fe5794888a92430385cd60518b6ae8e279/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732532302d2532333333393933332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465)  ![Flask](https://camo.githubusercontent.com/d481620dd5c72962824511af1f973c9e64d76bd2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c61736b2532302d2532333030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d466c61736b266c6f676f436f6c6f723d7768697465)  ![SQL](https://camo.githubusercontent.com/766609a9a9484608ff7cb1e36862ae0153ae793d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c6974652532302d2532333030334235372e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d53514c697465266c6f676f436f6c6f723d7768697465)
+  - HTML5, CSS, Bootstrap, JQuery, React, Node, Flask, SQLite
 
 - **Data Science:**
-
-![Pandas](https://camo.githubusercontent.com/acf99946ca7b3444f382de5ff060e0fe392af333/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732532302d2532333135303435382e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465)  ![RStudio](https://camo.githubusercontent.com/94ca26f4ea3c64d5eba08034f76576636711a834/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5253747564696f2532302d2532333735414144422e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d5253747564696f266c6f676f436f6c6f723d7768697465)  ![Scikit-Learn](https://camo.githubusercontent.com/5e8b6493343a841ed161f1862e7de688f67ba8809ad0a76a8f04af618ab2c3bf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7363696b69742d2d6c6561726e2d2532334637393331452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7363696b69742d6c6561726e266c6f676f436f6c6f723d7768697465)  ![Numpy](https://camo.githubusercontent.com/a1c5e9056e3be1e1058d8517b025af60f61f75395a78245776db71a7703aff9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e756d70792d2532333031333234332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e756d7079266c6f676f436f6c6f723d7768697465)
+  - Pandas, Scikit-learn, Numpy, RStudio
 
 - **Infrastructure:**
-
-![Docker](https://camo.githubusercontent.com/46d3662539c28e64208872d5c0c031e666c75a41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722532302d2532333234393645442e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d446f636b6572266c6f676f436f6c6f723d7768697465)  ![GitHub](https://camo.githubusercontent.com/1cad5ce1e21230a8500f82563178ce90fc2481ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622532302d2532333138313731372e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465)
+  - Docker, Github
 
 
 
 ## Other Skills
 
-- Productivity Hack: Certified Word and Excel Specialist aha and fast Slide Designer 
+- Productivity Hack: Certified Excel and Word Specialist, Canva, Notion, etc.
 - Photo / Video Editor: Adobe Lightroom, Adobe Premiere Pro, Photographer
-- Corporate Development: Financial Accounting, Financial Modelling (okok)
-- Personal Traits: Public Speaker, Educator at heart, Leader (only when absolutely needed ahaha)
+- Corporate Development: Financial Accounting, Financial Modelling
+- Personal Traits: Public Speaker, Educator at heart, Leader (only when absolutely needed haha)
 
 
 
 ## More about me
 
-- Sports I play:  Floorball  |  Field Hockey  |  Football (Soccer)
-- Enjoys Weightlifting (Power Cleans, Deadlifts)  |  Sprinting  |  Middle Distance < 3000m
-- Used to like gaming but started disliking it starting 2017
-- I play the piano whenever I have time and read about politics / markets / philosophy
+- Mostly do Olympic Weightlifting, Sprinting, and training for IPPT in my free time
+- Former Varsity Floorball Player and Field Hockey Player, can also play Football (Soccer)
+- Likes watching Arsenal FC, Diamond League sprinting events, and F1
+- I play the piano and chess occasionally
+- I readjust my financial portfolio every few months, recent wins coming from put options in big tech and oil stocks, while losses coming from crypto
+- Read a lot of geopolitics (much less nowadays), so happy to talk about that
+- Also enjoy watching Korean and Chinese entertainment be it dramas or K-pop, but been a little busy in recent years
 
 
 
@@ -61,34 +59,27 @@ Don't know much to be honest, but here are some things I've picked up along the 
 
 ## Experiences
 
-#### Internship Experiences
+#### Work Experiences
 
-- **Feb 2022 - Present**
-  - International Expansion Intern, Spenmo
+- **Feb 2022 - Jul 2022  |  Market Expansion  |  Spenmo**
   - Fintech Series B startup, providing company cards, local & overseas invoice payment, approval-based spending and accounting automation
-- **Oct 2020 - Aug 2021**
-  - Investment and Research Analyst Intern, TRIVE Ventures
-  -  Seed-stage VC Fund in SG / SEA, investing in data-driven tech startups in SEA
-- **Dec 2019 - Apr 2020**
-  - Business Operations Intern, RateS
+- **Oct 2020 - Aug 2021  |  Venture Capital Analyst  |  TRIVE Ventures**
+  -  Seed-stage VC Fund in SG / SEA, investing in data-driven tech startups in SEA, with new $40m deep tech investment fund
+- **Dec 2019 - Apr 2020  |  Business Operations  |  RateS**
   - Series A social commerce tech startup, providing resellers with full range of distribution and credit services
-- **Jan 2018 - Nov 2019**
-  - Operations Planner (Full-Time), Singapore Armed Forces
-  - Maritime Security Task Force for Singapore
+- **Jan 2018 - Nov 2019  |  Operations Planning  |  Singapore Armed Forces**
+  - Maritime Security Task Force for Singapore, managing Singapore's coastal defenses and waters
 
 
 
 #### Other Experiences
 
-- **May 2021 - Present**
-  - Co-Founder and Head of ProjectX, StartIT
-  - Project X is a low-cost IT outsourcing hub that helps aspiring student startup founders build their products and GTM quickly, while protecting equity and cash flow
-- **Aug 2020 - Jan 2022**
-  - Investment Associate and Head of Special Projects, Protégé Ventures
+- **May 2021 - Jun 2022  |  Co-Founder  |  Iterate @ StartIT**
+  - Iterate @ StartIT (formerly Project X) is a low-cost IT outsourcing hub that helps aspiring student startup founders build their products and GTM quickly, while protecting equity and cash flow
+- **Aug 2020 - Jan 2022  |  Investment Associate  |  Protégé Ventures**
   - Southeast Asia's first student-led Venture Capital fund, investing in startups and helping student founders build scalable ventures
-- **Aug 2021 - May 2022**
-  - Startup Recruitment Associate, Technical Advisory Associate, Bridges for Enterprise
-  - Global non-profit providing pro-bono advisory to social impact startups in developing countries
+- **Aug 2021 - May 2022  |  Startup Recruitment |  Bridges for Enterprise**
+  - Global non-profit providing pro-bono advisory to social impact startups in developing countries, with several student chapters worldwide
 
 
 
@@ -97,33 +88,54 @@ Don't know much to be honest, but here are some things I've picked up along the 
 - **Sports Activities:**
   - Yale-NUS ICG Road Relay Team, NUS Recreational Floorball Club, Yale-NUS Floorball Team
 - **Clubs and Societies:**
-  - Global China Connection (Vice President), Entrepreneurship Society (Head, Partnerships), StartIT (Head of External Relations)
+  - Global China Connection (Vice President), Entrepreneurship Society (Head, Partnerships), StartIT (Head of External Relations), Bridges for Enterprise
 - **Coursework (listed below)**
 
 
 
 ## Yale-NUS Coursework 📖
 
-| Course                              | Course Code | Elective         | Academic Term |
-| :---------------------------------- | ----------- | :--------------- | :------------ |
-| Investment Analysis and Economics   | YSS2233     | Business         | Y2S1          |
-| Accounting for Decision Makers      | ACC1701X    | Business         | Y2S1          |
-| Quantitative Reasoning              | YCC1122     | Statistics       | Y1S1          |
-| Intermediate Econometrics           | YSS2211     | Statistics       | Y1S2          |
-| Linear Algebra                      | YSC2232     | Statistics       | Y2S2          |
-| Introduction to Computer Science    | YSC1212     | Com Sci          | Y2S2          |
-| Introduction to Python              | YSC2221     | Com Sci          | Y2S2          |
-| Introduction to Psychology          | YSS2201     | Psychology       | Y2S2          |
-| Bahasa Indonesian I                 | LAB1201     | Language         | Y1S2          |
-| Bahasa Indonesian II                | LAB2201     | Language         | Y2S1          |
-| Literature and Humanities I         | YCC1111     | Literature       | Y1S1          |
-| Literature and Humanities II        | YCC1112     | Literature       | Y1S2          |
-| Philosophy and Political Thought I  | YCC1113     | Philosophy       | Y1S1          |
-| Philosophy and Political Thought II | YCC1114     | Philosophy       | Y1S2          |
-| Scientific Inquiry I                | YCC1131     | Natural Sciences | Y1S2          |
-| Scientific Inquiry II               | YCC2137     | Natural Sciences | Y2S1          |
-| Modern Social Thought               | YCC2121     | Sociology        | Y2S1          |
-| Comparative Social Inquiry          | YCC1121     | Sociology        | Y1S1          |
+#### Major / Minor Coursework
+
+- CS Coursework
+  - YSC1212 Introduction to Computer Science
+  - YSC2221 Introduction to Python
+  - CS2040 Data Structures and Algorithms
+  - CS1331x Object-Oriented Programming with Java (edX)
+- Statistics Coursework
+  - YCC1122 Quantitative Reasoning
+  - YSS2211 Econometrics
+  - YSC2232 Linear Algebra
+- Psychology Coursework
+  - YSS2201 Introduction to Psychology
+
+#### Other Relevant Coursework
+
+- Business Coursework
+  - YSS2233 Investment Analysis and Economics
+  - ACC1701 Accounting for Decision Makers
+  - MSE178 The Spirit of Entrepreneurship (Stanford)
+  - MSE472 Entrepreneurial Thought Leader Seminars (Stanford)
+  - TR4049N Seminars in Entrepreneurship
+  - TR3002N New Venture Creation
+  - TR3203N Start-up Case Study and Analysis
+- Language Coursework
+  - LAB1201 Bahasa Indonesian I
+  - LAB2201 Bahasa Indonesian II
+
+#### Other Coursework (Mandatory Common Curriculum)
+
+- Literature Coursework
+  - YCC1111 Literature and Humanities I
+  - YCC1112 Literature and Humanities II 
+- Philosophy Coursework
+  - YCC1121 Comparative Social Inquiry
+  - YCC1113 Philosophy and Political Thought I
+  - YCC1114 Philosophy and Political Thought II
+  - YCC2121 Modern Social Thought
+- Sciences Coursework
+  - YCC1131 Scientific Inquiry I 
+  - YCC2137 Scientific Inquiry II
 
 
 
